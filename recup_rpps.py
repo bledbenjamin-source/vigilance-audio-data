@@ -5,54 +5,54 @@ import zipfile
 import io
 import sys
 
-# Nouvelle URL via les serveurs de Data.gouv (plus stable pour les scripts)
-URL_DATA_GOUV = "https://www.data.gouv.fr/fr/datasets/r/00966f3f-4318-4720-9922-839075e89d53"
+URL_DIRECTE = "https://www.data.gouv.fr/fr/datasets/r/fffda7e9-0ea2-4c35-bba0-4496f3af935d"
 
 def run():
     try:
-        # On ajoute un "User-Agent" pour faire croire qu'on est un navigateur normal
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
         
-        print("⏳ Téléchargement depuis Data.gouv...")
-        r = requests.get(URL_DATA_GOUV, headers=headers, timeout=120)
-        r.raise_for_status()
+        print("⏳ Téléchargement du ZIP RPPS...")
+        response = requests.get(URL_DIRECTE, headers=headers, timeout=300)
+        response.headers.get('content-type') # Verification
+        response.raise_for_status()
 
-        z = zipfile.ZipFile(io.BytesIO(r.content))
-        # On cherche le fichier qui contient 'Personne_activite'
-        nom_fichier = [n for n in z.namelist() if 'activite' in n][0]
-        
-        print(f"📂 Ouverture de {nom_fichier}...")
-        with z.open(nom_fichier) as f:
-            # Lecture optimisée : on ne charge que ce dont on a besoin
-            df = pd.read_csv(f, sep='|', dtype=str, on_bad_lines='skip', low_memory=False)
+        with zipfile.ZipFile(io.BytesIO(response.content)) as z:
+            file_list = z.namelist()
+            csv_file = [f for f in file_list if 'activite' in f][0]
+            
+            with z.open(csv_file) as f:
+                print(f"📖 Lecture de {csv_file}...")
+                # On force le type string pour les codes pour éviter que 06 devienne 6
+                df = pd.read_csv(f, sep='|', dtype=str, on_bad_lines='skip', low_memory=False)
 
-        # Nettoyage des colonnes
+        # Nettoyage des noms de colonnes
         df.columns = df.columns.str.strip()
-
-        print("🔍 Filtrage Audioprothésistes...")
-        # On cherche la colonne profession de manière flexible
-        col_prof = [c for c in df.columns if 'Profession' in c][0]
-        df_audio = df[df[col_prof].str.contains('Audio', na=False, case=False)].copy()
+        
+        # Filtrage par CODE PROFESSION 26
+        print("🔍 Filtrage des Audioprothésistes (Code 26)...")
+        # La colonne exacte est souvent 'Code profession'
+        if 'Code profession' in df.columns:
+            df_audio = df[df['Code profession'] == '26'].copy()
+        else:
+            # Sécurité au cas où le nom de colonne varie légèrement
+            col_code = [c for c in df.columns if 'Code profession' in c][0]
+            df_audio = df[df[col_code] == '26'].copy()
         
         resultats = []
         for _, row in df_audio.iterrows():
             cp = str(row.get('Code postal (coord. structure)', '')).strip()
-            # On prend les 2 premiers chiffres pour le département
-            dept = cp[:2] if len(cp) >= 2 else "00"
-            
             resultats.append({
-                "nom": str(row.get("Nom d'exercice", "NOM INCONNU")).upper(),
+                "nom": str(row.get("Nom d'exercice", "")).upper(),
                 "prenom": str(row.get("Prénom d'exercice", "")).capitalize(),
-                "rpps": str(row.get("Identifiant PP", "0")),
+                "rpps": str(row.get("Identifiant PP", "")),
                 "adresse": f"{row.get('Numéro Voie (coord. structure)', '')} {row.get('Libellé Voie (coord. structure)', '')} {cp}".replace('nan', '').strip(),
-                "dept": dept
+                "dept": cp[:2] if len(cp) >= 2 else "00"
             })
 
-        print(f"💾 Sauvegarde de {len(resultats)} fiches...")
         with open('data_france.json', 'w', encoding='utf-8') as out:
             json.dump(resultats, out, ensure_ascii=False, indent=2)
         
-        print("✅ Terminé avec succès !")
+        print(f"🚀 Terminé ! {len(resultats)} audioprothésistes (code 26) enregistrés.")
 
     except Exception as e:
         print(f"❌ ERREUR : {str(e)}")
