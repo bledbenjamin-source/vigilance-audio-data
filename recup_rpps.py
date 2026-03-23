@@ -3,50 +3,60 @@ import requests
 import json
 import zipfile
 import io
+import sys
 
-URL_RPPS = "https://annuaire.sante.fr/web/site-pro/extractions-publiques?p_p_id=abonnementportlet_WAR_annuaireportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=exportFichierExtraction&p_p_cacheability=cacheLevelPage&_abonnementportlet_WAR_annuaireportlet_nomFichier=PS_LibreAcces_Personne_activite.zip"
+# Nouvelle URL via les serveurs de Data.gouv (plus stable pour les scripts)
+URL_DATA_GOUV = "https://www.data.gouv.fr/fr/datasets/r/00966f3f-4318-4720-9922-839075e89d53"
 
 def run():
-    print("⏳ Téléchargement du ZIP RPPS...")
-    r = requests.get(URL_RPPS)
-    if r.status_code != 200:
-        print("❌ Erreur de téléchargement du fichier source.")
-        return
+    try:
+        # On ajoute un "User-Agent" pour faire croire qu'on est un navigateur normal
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+        
+        print("⏳ Téléchargement depuis Data.gouv...")
+        r = requests.get(URL_DATA_GOUV, headers=headers, timeout=120)
+        r.raise_for_status()
 
-    z = zipfile.ZipFile(io.BytesIO(r.content))
-    nom_fichier_interne = z.namelist()[0]
-    
-    # Stratégie mémoire : On ne charge QUE les colonnes utiles !
-    colonnes_utiles = [
-        "Profession", "Nom d'exercice", "Prénom d'exercice", "Identifiant PP",
-        "Numéro Voie (coord. structure)", "Libellé Voie (coord. structure)", 
-        "Code postal (coord. structure)", "Libellé savoir-faire"
-    ]
+        z = zipfile.ZipFile(io.BytesIO(r.content))
+        # On cherche le fichier qui contient 'Personne_activite'
+        nom_fichier = [n for n in z.namelist() if 'activite' in n][0]
+        
+        print(f"📂 Ouverture de {nom_fichier}...")
+        with z.open(nom_fichier) as f:
+            # Lecture optimisée : on ne charge que ce dont on a besoin
+            df = pd.read_csv(f, sep='|', dtype=str, on_bad_lines='skip', low_memory=False)
 
-    print(f"📂 Lecture optimisée du fichier : {nom_fichier_interne}")
-    with z.open(nom_fichier_interne) as f:
-        # On ajoute usecols pour ne pas saturer la RAM de GitHub
-        df = pd.read_csv(f, sep='|', dtype=str, usecols=colonnes_utiles, encoding='utf-8', on_bad_lines='skip')
+        # Nettoyage des colonnes
+        df.columns = df.columns.str.strip()
 
-    print("🔍 Filtrage des audioprothésistes...")
-    df_audio = df[df['Profession'] == 'Audioprothésiste'].copy()
-    
-    resultats = []
-    for _, row in df_audio.iterrows():
-        cp = str(row.get('Code postal (coord. structure)', '')).strip()
-        resultats.append({
-            "nom": str(row.get("Nom d'exercice", "")).upper(),
-            "prenom": str(row.get("Prénom d'exercice", "")).capitalize(),
-            "rpps": str(row.get("Identifiant PP", "")),
-            "adresse": f"{row.get('Numéro Voie (coord. structure)', '')} {row.get('Libellé Voie (coord. structure)', '')} {cp}".replace('nan', '').strip(),
-            "dept": cp[:2] if len(cp) >= 2 else "00",
-            "savoir_faire": str(row.get("Libellé savoir-faire", "Non renseigné"))
-        })
+        print("🔍 Filtrage Audioprothésistes...")
+        # On cherche la colonne profession de manière flexible
+        col_prof = [c for c in df.columns if 'Profession' in c][0]
+        df_audio = df[df[col_prof].str.contains('Audio', na=False, case=False)].copy()
+        
+        resultats = []
+        for _, row in df_audio.iterrows():
+            cp = str(row.get('Code postal (coord. structure)', '')).strip()
+            # On prend les 2 premiers chiffres pour le département
+            dept = cp[:2] if len(cp) >= 2 else "00"
+            
+            resultats.append({
+                "nom": str(row.get("Nom d'exercice", "NOM INCONNU")).upper(),
+                "prenom": str(row.get("Prénom d'exercice", "")).capitalize(),
+                "rpps": str(row.get("Identifiant PP", "0")),
+                "adresse": f"{row.get('Numéro Voie (coord. structure)', '')} {row.get('Libellé Voie (coord. structure)', '')} {cp}".replace('nan', '').strip(),
+                "dept": dept
+            })
 
-    with open('data_france.json', 'w', encoding='utf-8') as f:
-        json.dump(resultats, f, ensure_ascii=False, indent=2)
-    
-    print(f"✅ Terminé ! {len(resultats)} professionnels enregistrés dans data_france.json")
+        print(f"💾 Sauvegarde de {len(resultats)} fiches...")
+        with open('data_france.json', 'w', encoding='utf-8') as out:
+            json.dump(resultats, out, ensure_ascii=False, indent=2)
+        
+        print("✅ Terminé avec succès !")
+
+    except Exception as e:
+        print(f"❌ ERREUR : {str(e)}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     run()
