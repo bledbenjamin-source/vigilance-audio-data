@@ -2,20 +2,20 @@ name: Mise a jour RPPS automatique
 
 on:
   schedule:
-    - cron: '0 8 * * 1' # Tous les lundis à 8h
-  workflow_dispatch:      # Permet de le lancer manuellement
+    - cron: '0 8 * * 1'
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Version récente
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Version récente
         with:
-          python-version: '3.9'
+          python-version: '3.11' # Python plus rapide
 
       - name: Install dependencies
         run: pip install -r requirements.txt
