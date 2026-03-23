@@ -2,56 +2,52 @@ import pandas as pd
 import requests
 import json
 import io
-import sys
+import time
 
 URL_RPPS = "https://www.data.gouv.fr/fr/datasets/r/fffda7e9-0ea2-4c35-bba0-4496f3af935d"
 
 def run():
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        print("⏳ Téléchargement du RPPS complet...")
-        resp = requests.get(URL_RPPS, headers=headers, timeout=300)
-        
-        # On lit le fichier avec le séparateur |
-        df = pd.read_csv(io.BytesIO(resp.content), sep='|', dtype=str, on_bad_lines='skip', low_memory=False)
-        df.columns = df.columns.str.strip()
-        
-        # Filtrage Audioprothésistes (Code 26)
-        col_profession = [c for c in df.columns if 'Code profession' in c][0]
-        df_audio = df[df[col_profession] == '26'].copy()
-        
-        # Identification des bonnes colonnes pour le SIRET
-        # Dans le fichier ANS, c'est souvent "Identifiant SIRET de la structure"
-        col_siret = "Identifiant SIRET de la structure"
-        if col_siret not in df.columns:
-            # Recherche alternative si le nom de colonne a changé
-            col_siret = [c for c in df.columns if 'SIRET' in c][0]
+    print("⏳ Téléchargement du RPPS...")
+    resp = requests.get(URL_RPPS, timeout=300)
+    df = pd.read_csv(io.BytesIO(resp.content), sep='|', dtype=str, low_memory=False)
+    
+    # Filtrage Audio
+    col_profession = [c for c in df.columns if 'Code profession' in c][0]
+    df_audio = df[df[col_profession] == '26'].copy()
+    
+    col_siret = [c for c in df.columns if 'SIRET' in c][0]
+    
+    resultats = []
+    print(f"🌍 Géocodage de {len(df_audio)} centres...")
 
-        resultats = []
-        for _, row in df_audio.iterrows():
-            cp = str(row.get('Code postal (coord. structure)', '')).strip()
-            # On récupère le VRAI SIRET
-            siret_brut = str(row.get(col_siret, "INCONNU")).strip()
-            
-            resultats.append({
-                "nom": str(row.get("Nom d'exercice", "")).upper(),
-                "prenom": str(row.get("Prénom d'exercice", "")).capitalize(),
-                "rpps": str(row.get("Identifiant PP", "")),
-                "entreprise": str(row.get("Raison sociale site", "NON RENSEIGNÉ")).upper(),
-                "siret": siret_brut,
-                "adresse": f"{row.get('Numéro Voie (coord. structure)', '')} {row.get('Libellé Voie (coord. structure)', '')} {cp}".replace('nan', '').strip(),
-                "ville": str(row.get("Libellé commune (coord. structure)", "")).upper(),
-                "dept": cp[:2] if len(cp) >= 2 else "00"
-            })
-
-        with open('data_france.json', 'w', encoding='utf-8') as out:
-            json.dump(resultats, out, ensure_ascii=False, indent=2)
+    for i, (_, row) in enumerate(df_audio.iterrows()):
+        adresse_complete = f"{row.get('Numéro Voie (coord. structure)', '')} {row.get('Libellé Voie (coord. structure)', '')} {row.get('Code postal (coord. structure)', '')}".strip()
         
-        print(f"✅ Succès : {len(resultats)} fiches extraites avec le champ SIRET : {col_siret}")
+        # On ne géocode que si l'adresse est valide
+        lat, lon = None, None
+        if len(adresse_complete) > 10:
+            try:
+                # Appel API Gouv pour avoir le point GPS
+                geo = requests.get(f"https://api-adresse.data.gouv.fr/search/?q={adresse_complete}&limit=1").json()
+                if geo['features']:
+                    lon, lat = geo['features'][0]['geometry']['coordinates']
+            except: pass
 
-    except Exception as e:
-        print(f"❌ Erreur lors de l'extraction : {e}")
-        sys.exit(1)
+        resultats.append({
+            "nom": str(row.get("Nom d'exercice", "")).upper(),
+            "prenom": str(row.get("Prénom d'exercice", "")).capitalize(),
+            "rpps": str(row.get("Identifiant PP", "")),
+            "entreprise": str(row.get("Raison sociale site", "")).upper(),
+            "siret": str(row.get(col_siret, "")).strip(),
+            "adresse": adresse_complete,
+            "lat": lat,
+            "lon": lon
+        })
+        if i % 100 == 0: print(f"Progrès : {i}/{len(df_audio)}")
+
+    with open('data_france.json', 'w', encoding='utf-8') as out:
+        json.dump(resultats, out, ensure_ascii=False)
+    print("✅ Fichier enrichi avec GPS sauvegardé.")
 
 if __name__ == "__main__":
     run()
