@@ -32,29 +32,37 @@ def run():
     total = len(df_audio)
     print(f"🌍 Étape 3 : Géocodage de {total} centres...", flush=True)
 
-    for i, (_, row) in enumerate(df_audio.iterrows()):
+for i, (_, row) in enumerate(df_audio.iterrows()):
+        # 1. Récupération de TOUTES les parties de l'adresse (avec .get pour éviter les erreurs si la colonne manque)
         num_voie = str(row.get('Numéro Voie (coord. structure)', '')).replace('nan', '')
+        indice_voie = str(row.get('Indice de répétition (coord. structure)', '')).replace('nan', '')
+        type_voie = str(row.get('Code type de voie (coord. structure)', '')).replace('nan', '')
         libelle_voie = str(row.get('Libellé Voie (coord. structure)', '')).replace('nan', '')
-        cp = str(row.get('Code postal (coord. structure)', '')).replace('nan', '')
+        cp = str(row.get('Code postal (coord. structure)', '')).replace('nan', '').split('.')[0] # Au cas où il y a un .0
         ville = str(row.get('Libellé Commune (coord. structure)', '')).replace('nan', '')
         
-        adresse_complete = f"{num_voie} {libelle_voie} {cp} {ville}".strip()
+        # On assemble proprement (le split/join enlève les espaces en trop si une variable est vide)
+        adresse_brute = f"{num_voie} {indice_voie} {type_voie} {libelle_voie} {cp} {ville}"
+        adresse_complete = ' '.join(adresse_brute.split())
         
         lat, lon = None, None
         
         if len(adresse_complete) > 5:
             try:
-                # Petite pause pour respecter les limites de l'API Gouv
-                if i % 5 == 0:
-                    time.sleep(0.05) 
+                # Respect de la limite API (50 requêtes/sec max)
+                if i % 20 == 0:
+                    time.sleep(0.1) 
                 
-                geo_url = f"https://api-adresse.data.gouv.fr/search/?q={requests.utils.quote(adresse_complete)}&limit=1"
+                # REQUÊTE AMÉLIORÉE : on isole le code postal dans un paramètre dédié pour aider l'API
+                geo_url = f"https://api-adresse.data.gouv.fr/search/?q={requests.utils.quote(adresse_complete)}&postcode={cp}&limit=1"
                 geo_resp = requests.get(geo_url, timeout=5)
                 
                 if geo_resp.status_code == 200:
                     geo_data = geo_resp.json()
                     if geo_data['features']:
-                        lon, lat = geo_data['features'][0]['geometry']['coordinates']
+                        feature = geo_data['features'][0]
+                        # Optionnel : Tu pourrais vérifier la précision ici avec feature['properties']['score'] ou feature['properties']['type'] (housenumber vs street)
+                        lon, lat = feature['geometry']['coordinates']
             except Exception:
                 pass
 
@@ -69,7 +77,7 @@ def run():
             "lon": lon
         })
 
-        # AFFICHAGE TOUTES LES 50 LIGNES AVEC FLUSH
+        # AFFICHAGE TOUTES LES 50 LIGNES
         if i % 50 == 0:
             print(f"📈 Progression : {i}/{total} centres traités...", flush=True)
 
