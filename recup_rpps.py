@@ -20,6 +20,7 @@ def run():
         print(f"❌ Erreur lors du téléchargement : {e}", flush=True)
         return
 
+    # Lecture du CSV
     df = pd.read_csv(io.BytesIO(resp.content), sep='|', dtype=str, low_memory=False)
     
     print("🧹 Étape 2 : Filtrage des audioprothésistes...", flush=True)
@@ -32,37 +33,35 @@ def run():
     total = len(df_audio)
     print(f"🌍 Étape 3 : Géocodage de {total} centres...", flush=True)
 
-for i, (_, row) in enumerate(df_audio.iterrows()):
-        # 1. Récupération de TOUTES les parties de l'adresse (avec .get pour éviter les erreurs si la colonne manque)
+    for i, (_, row) in enumerate(df_audio.iterrows()):
+        # Récupération exhaustive des composants de l'adresse pour la précision
         num_voie = str(row.get('Numéro Voie (coord. structure)', '')).replace('nan', '')
-        indice_voie = str(row.get('Indice de répétition (coord. structure)', '')).replace('nan', '')
+        indice_rep = str(row.get('Indice de répétition (coord. structure)', '')).replace('nan', '')
         type_voie = str(row.get('Code type de voie (coord. structure)', '')).replace('nan', '')
         libelle_voie = str(row.get('Libellé Voie (coord. structure)', '')).replace('nan', '')
-        cp = str(row.get('Code postal (coord. structure)', '')).replace('nan', '').split('.')[0] # Au cas où il y a un .0
+        cp = str(row.get('Code postal (coord. structure)', '')).replace('nan', '').split('.')[0]
         ville = str(row.get('Libellé Commune (coord. structure)', '')).replace('nan', '')
         
-        # On assemble proprement (le split/join enlève les espaces en trop si une variable est vide)
-        adresse_brute = f"{num_voie} {indice_voie} {type_voie} {libelle_voie} {cp} {ville}"
-        adresse_complete = ' '.join(adresse_brute.split())
+        # Construction de l'adresse propre
+        adresse_brute = f"{num_voie} {indice_rep} {type_voie} {libelle_voie} {cp} {ville}"
+        adresse_complete = ' '.join(adresse_brute.split()) # Nettoie les doubles espaces
         
         lat, lon = None, None
         
         if len(adresse_complete) > 5:
             try:
-                # Respect de la limite API (50 requêtes/sec max)
+                # Pause pour respecter les limites de l'API (50 requêtes / seconde)
                 if i % 20 == 0:
                     time.sleep(0.1) 
                 
-                # REQUÊTE AMÉLIORÉE : on isole le code postal dans un paramètre dédié pour aider l'API
+                # Géocodage avec le paramètre postcode pour aider l'API
                 geo_url = f"https://api-adresse.data.gouv.fr/search/?q={requests.utils.quote(adresse_complete)}&postcode={cp}&limit=1"
                 geo_resp = requests.get(geo_url, timeout=5)
                 
                 if geo_resp.status_code == 200:
                     geo_data = geo_resp.json()
                     if geo_data['features']:
-                        feature = geo_data['features'][0]
-                        # Optionnel : Tu pourrais vérifier la précision ici avec feature['properties']['score'] ou feature['properties']['type'] (housenumber vs street)
-                        lon, lat = feature['geometry']['coordinates']
+                        lon, lat = geo_data['features'][0]['geometry']['coordinates']
             except Exception:
                 pass
 
@@ -74,13 +73,15 @@ for i, (_, row) in enumerate(df_audio.iterrows()):
             "siret": str(row.get(col_siret, "")).strip(),
             "adresse": adresse_complete,
             "lat": lat,
-            "lon": lon
+            "lon": lon,
+            "dept": cp[:2] if cp else ""
         })
 
-        # AFFICHAGE TOUTES LES 50 LIGNES
+        # Affichage de la progression
         if i % 50 == 0:
             print(f"📈 Progression : {i}/{total} centres traités...", flush=True)
 
+    # --- LA FIXATION DE L'INDENTATION EST ICI ---
     print("💾 Étape 4 : Sauvegarde du fichier JSON...", flush=True)
     with open('data_france.json', 'w', encoding='utf-8') as out:
         json.dump(resultats, out, ensure_ascii=False, indent=2)
