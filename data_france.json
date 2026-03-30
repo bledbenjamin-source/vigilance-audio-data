@@ -237,8 +237,8 @@
     "entreprise": "BOUGEROLLES AUDITION",
     "siret": "43251835500024",
     "adresse": "104 RTE NATIONALE 41350",
-    "lat": null,
-    "lon": null,
+    "lat": 47.565221,
+    "lon": 1.367546,
     "dept": "41"
   },
   {
@@ -842,8 +842,8 @@
     "entreprise": "2B AUDITION RW",
     "siret": "93321539400018",
     "adresse": "370 avenue du 8 mai 1945 59286",
-    "lat": null,
-    "lon": null,
+    "lat": 50.406643,
+    "lon": 3.102286,
     "dept": "59"
   },
   {
@@ -875,8 +875,8 @@
     "entreprise": "AUDISENS",
     "siret": "93895594500010",
     "adresse": "40 Rue Gay-Lussac 75005",
-    "lat": null,
-    "lon": null,
+    "lat": 48.843699,
+    "lon": 2.342194,
     "dept": "75"
   },
   {
@@ -935,17 +935,6 @@
     "dept": "75"
   },
   {
-    "nom": "DARDENNE",
-    "prenom": "Victor",
-    "rpps": "10008503608",
-    "entreprise": "OCEANE AUDITION",
-    "siret": "98957278900026",
-    "adresse": "29 Place de l'Hôtel de Ville 76600",
-    "lat": 49.492482,
-    "lon": 0.106124,
-    "dept": "76"
-  },
-  {
     "nom": "AMAR HAZIZA",
     "prenom": "Dorith",
     "rpps": "10008504028",
@@ -974,8 +963,8 @@
     "entreprise": "MIOPTICO FRANCE",
     "siret": "81143058600032",
     "adresse": "19 RTE DE CORBEIL 91160",
-    "lat": 48.692704,
-    "lon": 2.296398,
+    "lat": null,
+    "lon": null,
     "dept": "91"
   },
   {
@@ -1007,8 +996,8 @@
     "entreprise": "ATOL",
     "siret": "30521985900066",
     "adresse": "46 R AUGUSTE MOUNIE 92160",
-    "lat": 48.754252,
-    "lon": 2.301129,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -1128,8 +1117,8 @@
     "entreprise": "ES AUDITION",
     "siret": "85383443000029",
     "adresse": "1 BD DU MARECHAL FOCH 93330",
-    "lat": null,
-    "lon": null,
+    "lat": 48.854366,
+    "lon": 2.522155,
     "dept": "93"
   },
   {
@@ -1249,8 +1238,8 @@
     "entreprise": "OSC SOLUTIONS AUDITIVES",
     "siret": "83521798500018",
     "adresse": "56 R SAINT-DENIS 92700",
-    "lat": 48.923939,
-    "lon": 2.25433,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -1612,8 +1601,8 @@
     "entreprise": "DL OPTIC",
     "siret": "85044403500016",
     "adresse": "22 PL DU MARCHE 94320",
-    "lat": null,
-    "lon": null,
+    "lat": 48.764622,
+    "lon": 2.391504,
     "dept": "94"
   },
   {
@@ -1755,8 +1744,8 @@
     "entreprise": "LCA FAUCIGNY",
     "siret": "91797924700017",
     "adresse": "98 QU ALEXANDRE CURRAL 74700",
-    "lat": 45.935876,
-    "lon": 6.630851,
+    "lat": null,
+    "lon": null,
     "dept": "74"
   },
   {
@@ -2030,8 +2019,8 @@
     "entreprise": "ACLD AUDITION",
     "siret": "98456670300026",
     "adresse": "2 BD DE L EUROPE -V G D ESTAING 91000",
-    "lat": 48.630773,
-    "lon": 2.427141,
+    "lat": null,
+    "lon": null,
     "dept": "91"
   },
   {
@@ -2074,8 +2063,8 @@
     "entreprise": "AUDIPLUS GIEN",
     "siret": "91162083900017",
     "adresse": "20 AV DU MARECHAL LECLERC 45500",
-    "lat": 47.684612,
-    "lon": 2.632917,
+    "lat": null,
+    "lon": null,
     "dept": "45"
   },
   {
@@ -2118,8 +2107,8 @@
     "entreprise": "LABORATOIRE D'AUDITION BENOIT",
     "siret": "38411439300216",
     "adresse": "24 AV ETIENNE AUDIBERT 60300",
-    "lat": 49.204807,
-    "lon": 2.604304,
+    "lat": null,
+    "lon": null,
     "dept": "60"
   },
   {
@@ -2547,8 +2536,8 @@
     "entreprise": "LS3A",
     "siret": "85013657300019",
     "adresse": "44 R PONT MORTAIN 14100",
-    "lat": 49.143499,
-    "lon": 0.226726,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -2910,8 +2899,8 @@
     "entreprise": "ATLANTIC'SURDITE",
     "siret": "35327614000038",
     "adresse": "3 BD VICTOR HUGO 44110",
-    "lat": 47.71995,
-    "lon": -1.378241,
+    "lat": null,
+    "lon": null,
     "dept": "44"
   },
   {
@@ -2979,17 +2968,6 @@
     "lat": 47.500436,
     "lon": 1.173662,
     "dept": "41"
-  },
-  {
-    "nom": "BALOUP DOMINICI",
-    "prenom": "Patrice",
-    "rpps": "10008591488",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
   },
   {
     "nom": "LOPEZ",
@@ -3130,8 +3108,8 @@
     "entreprise": "MODERNE AUDITION SAS",
     "siret": "50133186200075",
     "adresse": "21 R GENERAL HENRI DE VIREL 56450",
-    "lat": 47.581568,
-    "lon": -2.629408,
+    "lat": null,
+    "lon": null,
     "dept": "56"
   },
   {
@@ -3251,8 +3229,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891504928",
     "adresse": "90 AV DE LA REPUBLIQUE 71210",
-    "lat": null,
-    "lon": null,
+    "lat": 46.747858,
+    "lon": 4.469425,
     "dept": "71"
   },
   {
@@ -4153,8 +4131,8 @@
     "entreprise": "PRESQU'ILE AUDITION",
     "siret": "50527381300020",
     "adresse": "3 PL DU DOME 56130",
-    "lat": 47.517876,
-    "lon": -2.297995,
+    "lat": null,
+    "lon": null,
     "dept": "56"
   },
   {
@@ -4505,8 +4483,8 @@
     "entreprise": "4L AUDIO",
     "siret": "53767404600025",
     "adresse": "1 R DU TRAITE D'AMSTERDAM 44210",
-    "lat": null,
-    "lon": null,
+    "lat": 47.124618,
+    "lon": -2.123415,
     "dept": "44"
   },
   {
@@ -4648,8 +4626,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311011695",
     "adresse": "18 R CAPITAINE ALFRED DREYFUS 35000",
-    "lat": 48.108908,
-    "lon": -1.676334,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -4857,8 +4835,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600686",
     "adresse": "2 RUE FULGENCE BIENVENUE 22360",
-    "lat": null,
-    "lon": null,
+    "lat": 48.497111,
+    "lon": -2.726653,
     "dept": "22"
   },
   {
@@ -4868,8 +4846,8 @@
     "entreprise": "FC OPTIC",
     "siret": "52872917100074",
     "adresse": "R ANDREI SAKHAROV 56600",
-    "lat": null,
-    "lon": null,
+    "lat": 47.776937,
+    "lon": -3.34084,
     "dept": "56"
   },
   {
@@ -5003,6 +4981,17 @@
     "lat": 48.518698,
     "lon": -1.910766,
     "dept": "35"
+  },
+  {
+    "nom": "THOMAS",
+    "prenom": "Philippine",
+    "rpps": "10008700576",
+    "entreprise": "VYV3 SUD EST",
+    "siret": "51261178100802",
+    "adresse": "1 R JEAN AICARD 83400",
+    "lat": 43.117705,
+    "lon": 6.129116,
+    "dept": "83"
   },
   {
     "nom": "MARIN",
@@ -5528,8 +5517,8 @@
     "entreprise": "AUDITION CASSIN MATHILDE",
     "siret": "82833551300051",
     "adresse": "64 BD VINCENT AURIOL 31170",
-    "lat": 43.587802,
-    "lon": 1.354255,
+    "lat": null,
+    "lon": null,
     "dept": "31"
   },
   {
@@ -5616,8 +5605,8 @@
     "entreprise": "AUDILAB CORREZE",
     "siret": "81347420200021",
     "adresse": "AV JEAN CHARLES RIVET 19100",
-    "lat": null,
-    "lon": null,
+    "lat": 45.149799,
+    "lon": 1.495917,
     "dept": "19"
   },
   {
@@ -6026,6 +6015,17 @@
     "lat": 43.608078,
     "lon": 1.445617,
     "dept": "31"
+  },
+  {
+    "nom": "BARRIERE",
+    "prenom": "Amandine",
+    "rpps": "10008745373",
+    "entreprise": "SAS JBCA",
+    "siret": "90952309400029",
+    "adresse": "2 R MAURICE DRUON 66240",
+    "lat": 42.710883,
+    "lon": 2.85585,
+    "dept": "66"
   },
   {
     "nom": "GUERROUCHE",
@@ -6881,8 +6881,8 @@
     "entreprise": "JUMEL AUDITION",
     "siret": "93310859900020",
     "adresse": "Avenue Émile Bodin 13600",
-    "lat": 43.195227,
-    "lon": 5.597182,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -7134,8 +7134,8 @@
     "entreprise": "AUDITION CONSEIL LABS",
     "siret": "42006305900679",
     "adresse": "51 AV DE ST MANDE 75012",
-    "lat": 48.845069,
-    "lon": 2.403379,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -7233,8 +7233,8 @@
     "entreprise": "AUDITION GIULIANI",
     "siret": "92516429500014",
     "adresse": "1 BD DE REUILLY 75012",
-    "lat": 48.849709,
-    "lon": 2.385109,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -7387,8 +7387,8 @@
     "entreprise": "ECLEAR",
     "siret": "44154303000155",
     "adresse": "97 AV JEAN JAURES 92140",
-    "lat": 48.806201,
-    "lon": 2.267302,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -7750,8 +7750,8 @@
     "entreprise": "EA AUDITION",
     "siret": "85383440600029",
     "adresse": "44 R FONTAINE BERGER 77230",
-    "lat": null,
-    "lon": null,
+    "lat": 49.033121,
+    "lon": 2.681447,
     "dept": "77"
   },
   {
@@ -7816,8 +7816,8 @@
     "entreprise": "OPTIQUE LONGJUMEAU",
     "siret": "79762802100025",
     "adresse": "77 R PDT FRANCOIS MITTERRAND 91160",
-    "lat": 48.696535,
-    "lon": 2.294987,
+    "lat": null,
+    "lon": null,
     "dept": "91"
   },
   {
@@ -9499,8 +9499,8 @@
     "entreprise": "GEMINI AUDIO",
     "siret": "98043818800032",
     "adresse": "33 Rue de la Madeleine 59500",
-    "lat": 50.36995,
-    "lon": 3.082713,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -9851,8 +9851,8 @@
     "entreprise": "GRANDAUDITION",
     "siret": "42958858500159",
     "adresse": "48 CRS J B LANGLET 51100",
-    "lat": null,
-    "lon": null,
+    "lat": 49.257726,
+    "lon": 4.029591,
     "dept": "51"
   },
   {
@@ -9917,8 +9917,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311010705",
     "adresse": "48 R THIERS 88100",
-    "lat": null,
-    "lon": null,
+    "lat": 48.287683,
+    "lon": 6.949819,
     "dept": "88"
   },
   {
@@ -10632,8 +10632,8 @@
     "entreprise": "AUDILAB ARMOR",
     "siret": "44297932400104",
     "adresse": "6 PL DU MARCHIX 22100",
-    "lat": 48.453775,
-    "lon": -2.045541,
+    "lat": null,
+    "lon": null,
     "dept": "22"
   },
   {
@@ -10962,8 +10962,8 @@
     "entreprise": "AUDILAB CHARENTE",
     "siret": "52238230800016",
     "adresse": "33 BD DENFERT ROCHEREAU 16100",
-    "lat": 45.694666,
-    "lon": -0.325773,
+    "lat": null,
+    "lon": null,
     "dept": "16"
   },
   {
@@ -11105,8 +11105,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891501015",
     "adresse": "110 AV DE LA COTE D'ARGENT 33380",
-    "lat": null,
-    "lon": null,
+    "lat": 44.637785,
+    "lon": -0.968034,
     "dept": "33"
   },
   {
@@ -11501,8 +11501,8 @@
     "entreprise": "ESPACE AUDITION",
     "siret": "88831114900015",
     "adresse": "26 R DU SEGALA 12450",
-    "lat": 44.290445,
-    "lon": 2.556282,
+    "lat": null,
+    "lon": null,
     "dept": "12"
   },
   {
@@ -11721,8 +11721,8 @@
     "entreprise": "AUDITION DEL RIO",
     "siret": "50374940000019",
     "adresse": "43 AV DU GENERAL LECLERC 33000",
-    "lat": 44.83725,
-    "lon": -0.588171,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -11842,8 +11842,8 @@
     "entreprise": "RB OPTIC",
     "siret": "49344461600095",
     "adresse": "508 RTE DE SAIN-BEL 69210",
-    "lat": 45.824269,
-    "lon": 4.605262,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -11889,17 +11889,6 @@
     "lat": 45.260081,
     "lon": 1.406753,
     "dept": "19"
-  },
-  {
-    "nom": "BONAQUE",
-    "prenom": "Julien",
-    "rpps": "10009711416",
-    "entreprise": "SARL E4Y",
-    "siret": "93511720000029",
-    "adresse": "LOT ARTISANAL ET COMMERCIAL LA CROIX 31510",
-    "lat": 43.060863,
-    "lon": 0.589053,
-    "dept": "31"
   },
   {
     "nom": "MANGIARACINA",
@@ -12018,8 +12007,8 @@
     "entreprise": "OPTILAF 2",
     "siret": "95159337500029",
     "adresse": "CHEM DE PALAU DEL VIDRE 66700",
-    "lat": 42.55519,
-    "lon": 3.011585,
+    "lat": 42.555209,
+    "lon": 3.011555,
     "dept": "66"
   },
   {
@@ -12436,8 +12425,8 @@
     "entreprise": "UNION DES MUTUELLES DE FRANCE MONT BLANC",
     "siret": "77565447800624",
     "adresse": "46 AV GANTIN 74150",
-    "lat": 45.860404,
-    "lon": 5.948088,
+    "lat": null,
+    "lon": null,
     "dept": "74"
   },
   {
@@ -12678,8 +12667,8 @@
     "entreprise": "OXANCE",
     "siret": "77576184401401",
     "adresse": "30 AV VICTOR HUGO 26000",
-    "lat": null,
-    "lon": null,
+    "lat": 44.929064,
+    "lon": 4.890456,
     "dept": "26"
   },
   {
@@ -12822,7 +12811,7 @@
     "siret": "30889577008592",
     "adresse": "10 R NICOLAS RAMBOURG 03100",
     "lat": 46.349543,
-    "lon": 2.605174,
+    "lon": 2.605173,
     "dept": "03"
   },
   {
@@ -13096,8 +13085,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311009665",
     "adresse": "3 CHEM DE LA LISSANDRE 63430",
-    "lat": null,
-    "lon": null,
+    "lat": 45.793245,
+    "lon": 3.230905,
     "dept": "63"
   },
   {
@@ -13723,8 +13712,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007784",
     "adresse": "137 AV PAUL ARENE 04200",
-    "lat": null,
-    "lon": null,
+    "lat": 44.196533,
+    "lon": 5.943043,
     "dept": "04"
   },
   {
@@ -13745,8 +13734,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577005127",
     "adresse": "5 AV DU GENERAL DE GAULLE 13380",
-    "lat": 43.345403,
-    "lon": 5.465031,
+    "lat": 43.345413,
+    "lon": 5.465044,
     "dept": "13"
   },
   {
@@ -13877,8 +13866,8 @@
     "entreprise": "AUDISION LA VALENTINE",
     "siret": "91781929400013",
     "adresse": "2 PL SACOMAN 13011",
-    "lat": null,
-    "lon": null,
+    "lat": 43.297179,
+    "lon": 5.483884,
     "dept": "13"
   },
   {
@@ -13891,17 +13880,6 @@
     "lat": 43.142484,
     "lon": 5.749112,
     "dept": "83"
-  },
-  {
-    "nom": "CARBONNIER",
-    "prenom": "Ludivine",
-    "rpps": "10010051075",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
   },
   {
     "nom": "LOPEZ",
@@ -14108,8 +14086,8 @@
     "entreprise": "IA TOULON",
     "siret": "90091242900017",
     "adresse": "502 R JEAN JAURES 83000",
-    "lat": 43.123789,
-    "lon": 5.932327,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -14163,8 +14141,8 @@
     "entreprise": "SAS JAURES OPERA",
     "siret": "79410456200028",
     "adresse": "448 R JEAN JAURES 83000",
-    "lat": 43.123928,
-    "lon": 5.931704,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -14265,6 +14243,28 @@
     "lat": 49.61767,
     "lon": 0.752536,
     "dept": "76"
+  },
+  {
+    "nom": "ZERBIB",
+    "prenom": "Gaelle",
+    "rpps": "10102054508",
+    "entreprise": "AUDISON",
+    "siret": "84246628600015",
+    "adresse": "51 R DU FAUBOURG-DE-PIERRE 67000",
+    "lat": 48.589113,
+    "lon": 7.745217,
+    "dept": "67"
+  },
+  {
+    "nom": "LE JOUBIOUX",
+    "prenom": "Constance",
+    "rpps": "10105298557",
+    "entreprise": "OPTICAL CENTER",
+    "siret": "38237299300198",
+    "adresse": "1 ALL DU HARAS 49100",
+    "lat": 47.465962,
+    "lon": -0.552435,
+    "dept": "49"
   },
   {
     "nom": "CHEVET",
@@ -14592,8 +14592,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311008469",
     "adresse": "9 R FRANCOIS MOUSIS 65000",
-    "lat": 43.231399,
-    "lon": 0.081702,
+    "lat": null,
+    "lon": null,
     "dept": "65"
   },
   {
@@ -14757,8 +14757,8 @@
     "entreprise": "JMR SYSTEM",
     "siret": "34274165900078",
     "adresse": "112 ALL DU MAS DE VILLE 30000",
-    "lat": null,
-    "lon": null,
+    "lat": 43.831888,
+    "lon": 4.383341,
     "dept": "30"
   },
   {
@@ -15131,8 +15131,8 @@
     "entreprise": "GK AUDITION",
     "siret": "84385411800117",
     "adresse": "PLAISIR 78370",
-    "lat": 48.812226,
-    "lon": 1.946353,
+    "lat": null,
+    "lon": null,
     "dept": "78"
   },
   {
@@ -15450,8 +15450,8 @@
     "entreprise": "PERRIER SURDITE ANNECY",
     "siret": "75306702400012",
     "adresse": "3 R DES GLIERES 74000",
-    "lat": 45.900103,
-    "lon": 6.122393,
+    "lat": null,
+    "lon": null,
     "dept": "74"
   },
   {
@@ -15538,8 +15538,8 @@
     "entreprise": "OPTICAL CENTER",
     "siret": "38237299300438",
     "adresse": "8 PL GASTON VIENS 94310",
-    "lat": null,
-    "lon": null,
+    "lat": 48.744115,
+    "lon": 2.407687,
     "dept": "94"
   },
   {
@@ -15901,8 +15901,8 @@
     "entreprise": "GALLAND METZINGER",
     "siret": "87979022800040",
     "adresse": "278 CHEMIN DE LA CONDAMINE 83550",
-    "lat": 43.418189,
-    "lon": 6.425129,
+    "lat": 43.41814,
+    "lon": 6.42511,
     "dept": "83"
   },
   {
@@ -15978,8 +15978,8 @@
     "entreprise": "2B AUDITION RW",
     "siret": "93321539400018",
     "adresse": "370 avenue du 8 mai 1945 59286",
-    "lat": 50.406643,
-    "lon": 3.102286,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -16418,8 +16418,8 @@
     "entreprise": "JNA MEAUX",
     "siret": "92221793000010",
     "adresse": "32 R DU GENERAL LECLERC 77100",
-    "lat": 48.959492,
-    "lon": 2.88106,
+    "lat": null,
+    "lon": null,
     "dept": "77"
   },
   {
@@ -17001,8 +17001,8 @@
     "entreprise": "ALBATRE AUDITION",
     "siret": "84240774400056",
     "adresse": "16 PL DE LA CHAPELLE 76460",
-    "lat": null,
-    "lon": null,
+    "lat": 49.868711,
+    "lon": 0.713751,
     "dept": "76"
   },
   {
@@ -17375,8 +17375,8 @@
     "entreprise": "DUNE AUDITION",
     "siret": "99477763900018",
     "adresse": "45 Impasse Bestave 40200",
-    "lat": 44.205782,
-    "lon": -1.216626,
+    "lat": null,
+    "lon": null,
     "dept": "40"
   },
   {
@@ -18134,8 +18134,8 @@
     "entreprise": "SYEL",
     "siret": "90091682600010",
     "adresse": "1 AV GEORGES POMPIDOU 95500",
-    "lat": null,
-    "lon": null,
+    "lat": 48.989772,
+    "lon": 2.43163,
     "dept": "95"
   },
   {
@@ -18145,8 +18145,8 @@
     "entreprise": "SC AUDITION",
     "siret": "92163751800025",
     "adresse": "4 R DE LA REPUBLIQUE 27500",
-    "lat": 49.355154,
-    "lon": 0.514823,
+    "lat": null,
+    "lon": null,
     "dept": "27"
   },
   {
@@ -18343,8 +18343,8 @@
     "entreprise": "GB OPTIQUE",
     "siret": "95168496800013",
     "adresse": "3 AV DU BICENTENAIRE 1789 1989 94380",
-    "lat": 48.765622,
-    "lon": 2.488705,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -18640,8 +18640,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311004989",
     "adresse": "3 R NORMANDE 78490",
-    "lat": null,
-    "lon": null,
+    "lat": 48.778098,
+    "lon": 1.809487,
     "dept": "78"
   },
   {
@@ -18761,8 +18761,8 @@
     "entreprise": "BIEN ENTENDU LA SUZE",
     "siret": "98848859900016",
     "adresse": "15 Rue du Pont 72210",
-    "lat": null,
-    "lon": null,
+    "lat": 47.890042,
+    "lon": 0.030387,
     "dept": "72"
   },
   {
@@ -18838,8 +18838,8 @@
     "entreprise": "CLICHY AUDITION",
     "siret": "90354083900011",
     "adresse": "52 AV DE CLICHY 75018",
-    "lat": null,
-    "lon": null,
+    "lat": 48.886805,
+    "lon": 2.326078,
     "dept": "75"
   },
   {
@@ -19206,17 +19206,6 @@
     "dept": "16"
   },
   {
-    "nom": "CANEVE",
-    "prenom": "Ghislaine",
-    "rpps": "10008558479",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
-  },
-  {
     "nom": "TRIBUT",
     "prenom": "Nicolas",
     "rpps": "10008558610",
@@ -19487,8 +19476,8 @@
     "entreprise": "BLF AUDITION",
     "siret": "10010693900018",
     "adresse": "91 Rue Camille Barrère 58400",
-    "lat": 47.177411,
-    "lon": 3.020273,
+    "lat": null,
+    "lon": null,
     "dept": "58"
   },
   {
@@ -19762,8 +19751,8 @@
     "entreprise": "DECIBEL BINOCLES",
     "siret": "87757711400011",
     "adresse": "1 PL DU PILORI 49100",
-    "lat": 47.47338,
-    "lon": -0.549651,
+    "lat": null,
+    "lon": null,
     "dept": "49"
   },
   {
@@ -19927,8 +19916,8 @@
     "entreprise": "AUDITION REMI LAMOINE",
     "siret": "48256399600040",
     "adresse": "42 AV DE LA LIBERATION 33380",
-    "lat": null,
-    "lon": null,
+    "lat": 44.640232,
+    "lon": -0.973291,
     "dept": "33"
   },
   {
@@ -20191,8 +20180,8 @@
     "entreprise": "CLERMONT DISTRIBUTION",
     "siret": "51375004200683",
     "adresse": "66 R DU FAUBOURG SAINT MARTIN 21121",
-    "lat": 47.34167,
-    "lon": 5.029175,
+    "lat": null,
+    "lon": null,
     "dept": "21"
   },
   {
@@ -20411,8 +20400,8 @@
     "entreprise": "PERLOU",
     "siret": "48021086300027",
     "adresse": "22 R SAINT-PIERRE 14000",
-    "lat": 49.183787,
-    "lon": -0.362581,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -20972,8 +20961,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577006729",
     "adresse": "R DE LA REPUBLIQUE 54140",
-    "lat": 48.671131,
-    "lon": 6.205572,
+    "lat": null,
+    "lon": null,
     "dept": "54"
   },
   {
@@ -21313,8 +21302,8 @@
     "entreprise": "AUDITION CROWET",
     "siret": "93196657600023",
     "adresse": "13 Rue Chanzy 08700",
-    "lat": 49.816078,
-    "lon": 4.74306,
+    "lat": null,
+    "lon": null,
     "dept": "08"
   },
   {
@@ -22479,8 +22468,8 @@
     "entreprise": "ANNE-SOPHIE VINCKIER EI",
     "siret": "94237771400046",
     "adresse": "349 Chemin de Mag 40630",
-    "lat": 44.178207,
-    "lon": -0.781021,
+    "lat": 44.157708,
+    "lon": -0.777926,
     "dept": "40"
   },
   {
@@ -22735,17 +22724,6 @@
     "lat": 46.16368,
     "lon": -1.20422,
     "dept": "17"
-  },
-  {
-    "nom": "ATTIA",
-    "prenom": "Arthur",
-    "rpps": "10008734906",
-    "entreprise": "MAISON DE L AUDITION",
-    "siret": "39059362200033",
-    "adresse": "344 - 2 PLACE ARISTIDE BRI 40300",
-    "lat": 43.545179,
-    "lon": -1.103395,
-    "dept": "40"
   },
   {
     "nom": "ATTIA",
@@ -23117,8 +23095,8 @@
     "entreprise": "AUDITION BENJAMIN VALLA",
     "siret": "49336475600087",
     "adresse": "1 R RAMPON 07800",
-    "lat": 44.799617,
-    "lon": 4.780546,
+    "lat": 44.799837,
+    "lon": 4.781049,
     "dept": "07"
   },
   {
@@ -23249,8 +23227,8 @@
     "entreprise": "RHONE AUDITION",
     "siret": "83904130800025",
     "adresse": "762 RTE DE LYON 69480",
-    "lat": 45.936303,
-    "lon": 4.720223,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -23535,8 +23513,8 @@
     "entreprise": "CORRECTION AUDITIVE CEVENNES",
     "siret": "80060830900103",
     "adresse": "ROUTE DE SAUSSINES 30250",
-    "lat": 43.77925,
-    "lon": 4.080028,
+    "lat": 43.779232,
+    "lon": 4.079966,
     "dept": "30"
   },
   {
@@ -23722,8 +23700,8 @@
     "entreprise": "A2B",
     "siret": "84167947500019",
     "adresse": "5 CHEM LA BELLE AU BOIS DORMANT 88000",
-    "lat": 48.196005,
-    "lon": 6.461921,
+    "lat": null,
+    "lon": null,
     "dept": "88"
   },
   {
@@ -24624,8 +24602,8 @@
     "entreprise": "ECLEAR",
     "siret": "44154303000072",
     "adresse": "39 R DU GENERAL LECLERC 94000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.79246,
+    "lon": 2.46328,
     "dept": "94"
   },
   {
@@ -24910,8 +24888,8 @@
     "entreprise": "SARL",
     "siret": "93264728200015",
     "adresse": "225 Avenue Jean Jaurès 93300",
-    "lat": 48.915579,
-    "lon": 2.404699,
+    "lat": null,
+    "lon": null,
     "dept": "93"
   },
   {
@@ -25119,8 +25097,8 @@
     "entreprise": "CENTRE AUDITIF RIDOUX AMIENS SUD",
     "siret": "51355353700012",
     "adresse": "82 BD DE DURY 80000",
-    "lat": null,
-    "lon": null,
+    "lat": 49.880793,
+    "lon": 2.287251,
     "dept": "80"
   },
   {
@@ -25900,8 +25878,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311007198",
     "adresse": "12 R DES FORQUES 14760",
-    "lat": 49.165554,
-    "lon": -0.420319,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -26109,8 +26087,8 @@
     "entreprise": "AUCHAN HYPERMARCHE",
     "siret": "41040946000129",
     "adresse": "PL DE L'HOTEL DE VILLE 59491",
-    "lat": null,
-    "lon": null,
+    "lat": 50.663845,
+    "lon": 3.143274,
     "dept": "59"
   },
   {
@@ -27011,8 +26989,8 @@
     "entreprise": "CENTRE AUDITIF DE LA DOLLER",
     "siret": "93455806500017",
     "adresse": "6 IMP DES COQUELICOTS 68520",
-    "lat": 47.73758,
-    "lon": 7.148538,
+    "lat": null,
+    "lon": null,
     "dept": "68"
   },
   {
@@ -28551,8 +28529,8 @@
     "entreprise": "AUDILAB TULLE",
     "siret": "93774928100013",
     "adresse": "132 AV VICTOR HUGO 19000",
-    "lat": 45.260775,
-    "lon": 1.75846,
+    "lat": null,
+    "lon": null,
     "dept": "19"
   },
   {
@@ -29024,8 +29002,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007602",
     "adresse": "12 BD DU GEN DE GAULLE 12200",
-    "lat": 44.351799,
-    "lon": 2.034276,
+    "lat": null,
+    "lon": null,
     "dept": "12"
   },
   {
@@ -29277,8 +29255,8 @@
     "entreprise": "A2A AUDIO",
     "siret": "80344712700033",
     "adresse": "GRANDE BORDE 31670",
-    "lat": null,
-    "lon": null,
+    "lat": 43.549721,
+    "lon": 1.510561,
     "dept": "31"
   },
   {
@@ -29354,8 +29332,8 @@
     "entreprise": "CENTRE PIQUET AUDITION",
     "siret": "40028729800089",
     "adresse": "18 RUE CENTRALE 69970",
-    "lat": null,
-    "lon": null,
+    "lat": 45.627074,
+    "lon": 4.936449,
     "dept": "69"
   },
   {
@@ -29530,8 +29508,8 @@
     "entreprise": "ACOUSTIQUE SURDITE WERNERT",
     "siret": "51946055400032",
     "adresse": "15 PL JEAN GAPIAND 42170",
-    "lat": 45.50691,
-    "lon": 4.262166,
+    "lat": null,
+    "lon": null,
     "dept": "42"
   },
   {
@@ -30146,8 +30124,8 @@
     "entreprise": "AUDITION BENJAMIN VALLA",
     "siret": "49336475600087",
     "adresse": "1 R RAMPON 07800",
-    "lat": 44.799617,
-    "lon": 4.780546,
+    "lat": 44.799837,
+    "lon": 4.781049,
     "dept": "07"
   },
   {
@@ -31565,8 +31543,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311004286",
     "adresse": "3 R JEANNE BARRET 21000",
-    "lat": 47.366118,
-    "lon": 5.050033,
+    "lat": null,
+    "lon": null,
     "dept": "21"
   },
   {
@@ -31587,8 +31565,8 @@
     "entreprise": "MAURY AUDITION",
     "siret": "98317626400015",
     "adresse": "22 PL PIERRE FABRE 81100",
-    "lat": 43.609206,
-    "lon": 2.238774,
+    "lat": null,
+    "lon": null,
     "dept": "81"
   },
   {
@@ -31653,8 +31631,8 @@
     "entreprise": "2 JF OPTIC AUDIO",
     "siret": "48502148900060",
     "adresse": "2 R DES COLVERTS 66700",
-    "lat": 42.559852,
-    "lon": 3.008458,
+    "lat": null,
+    "lon": null,
     "dept": "66"
   },
   {
@@ -31708,8 +31686,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311000342",
     "adresse": "45 BD DU QUATORZE JUILLET 10000",
-    "lat": 48.293484,
-    "lon": 4.076975,
+    "lat": null,
+    "lon": null,
     "dept": "10"
   },
   {
@@ -31917,8 +31895,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577002827",
     "adresse": "28 R DES MARTYRS 29270",
-    "lat": 48.276622,
-    "lon": -3.569437,
+    "lat": null,
+    "lon": null,
     "dept": "29"
   },
   {
@@ -31994,8 +31972,8 @@
     "entreprise": "AUDIO 2B",
     "siret": "97896106800035",
     "adresse": "BD CHARCOT 35150",
-    "lat": null,
-    "lon": null,
+    "lat": 47.958477,
+    "lon": -1.48744,
     "dept": "35"
   },
   {
@@ -32346,8 +32324,8 @@
     "entreprise": "RM AUBRY",
     "siret": "85283467000014",
     "adresse": "24 DES STUARTS 35120",
-    "lat": 48.549807,
-    "lon": -1.754606,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -32368,8 +32346,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311007867",
     "adresse": "67 AV DE LA REPUBLIQUE 69160",
-    "lat": 45.763678,
-    "lon": 4.776827,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -32401,8 +32379,8 @@
     "entreprise": "VYV3 PAYS DE LA LOIRE",
     "siret": "84487901501351",
     "adresse": "49 R JULES GRANDJOUAN 44300",
-    "lat": null,
-    "lon": null,
+    "lat": 47.249643,
+    "lon": -1.518422,
     "dept": "44"
   },
   {
@@ -32599,8 +32577,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311010747",
     "adresse": "4 IMP DES TROIS CHENES 24380",
-    "lat": 44.985559,
-    "lon": 0.702657,
+    "lat": null,
+    "lon": null,
     "dept": "24"
   },
   {
@@ -32610,8 +32588,8 @@
     "entreprise": "SAS",
     "siret": "31808311012552",
     "adresse": "131 Avenue Georges Pompidou 24750",
-    "lat": 45.198823,
-    "lon": 0.74065,
+    "lat": null,
+    "lon": null,
     "dept": "24"
   },
   {
@@ -32742,8 +32720,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891505362",
     "adresse": "R DES PONTS 54000",
-    "lat": 48.68793,
-    "lon": 6.182232,
+    "lat": null,
+    "lon": null,
     "dept": "54"
   },
   {
@@ -32808,8 +32786,8 @@
     "entreprise": "EURL AUDIOCEAN",
     "siret": "99063371100017",
     "adresse": "19 Boulevard Ampère 79180",
-    "lat": null,
-    "lon": null,
+    "lat": 46.339311,
+    "lon": -0.382907,
     "dept": "79"
   },
   {
@@ -32854,6 +32832,17 @@
     "adresse": "PL BUGEAUD 24000",
     "lat": 45.183971,
     "lon": 0.71859,
+    "dept": "24"
+  },
+  {
+    "nom": "PERONA MORATELLA",
+    "prenom": "Léo",
+    "rpps": "10111107362",
+    "entreprise": "LACHAL ACOUSTIQUE",
+    "siret": "39811840600048",
+    "adresse": "PL DE LA REPUBLIQUE 24110",
+    "lat": 45.145271,
+    "lon": 0.528517,
     "dept": "24"
   },
   {
@@ -32907,8 +32896,8 @@
     "entreprise": "AMPLIFON CANDE",
     "siret": "31808311012669",
     "adresse": "40 Rue de bretagne 49440",
-    "lat": 47.560446,
-    "lon": -1.038221,
+    "lat": null,
+    "lon": null,
     "dept": "49"
   },
   {
@@ -33446,8 +33435,8 @@
     "entreprise": "AUDITION GULMANELLI",
     "siret": "53491180500016",
     "adresse": "103 AV DU GENERAL DE GAULLE 68300",
-    "lat": 47.579107,
-    "lon": 7.548426,
+    "lat": null,
+    "lon": null,
     "dept": "68"
   },
   {
@@ -33457,8 +33446,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577002538",
     "adresse": "63 BD DE STRASBOURG 31000",
-    "lat": 43.609766,
-    "lon": 1.444159,
+    "lat": null,
+    "lon": null,
     "dept": "31"
   },
   {
@@ -33567,8 +33556,8 @@
     "entreprise": "SUD AUDITION",
     "siret": "82012742100015",
     "adresse": "11 PL RAOUL COUSTET 13370",
-    "lat": 43.729323,
-    "lon": 5.178192,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -33578,8 +33567,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311009632",
     "adresse": "29 R GEORGES CLEMENCEAU 25200",
-    "lat": 47.510499,
-    "lon": 6.796406,
+    "lat": null,
+    "lon": null,
     "dept": "25"
   },
   {
@@ -33633,8 +33622,8 @@
     "entreprise": "BLACK JACK",
     "siret": "79017928700012",
     "adresse": "4 R ALPHONSE MATTER 88100",
-    "lat": 48.290433,
-    "lon": 6.942382,
+    "lat": null,
+    "lon": null,
     "dept": "88"
   },
   {
@@ -33655,8 +33644,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311009772",
     "adresse": "3 R DU LINKLING 57180",
-    "lat": 49.345995,
-    "lon": 6.138173,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -34337,8 +34326,8 @@
     "entreprise": "LABORATOIRE DE CORRECTION AUDITIVE DE DIJON",
     "siret": "50403367100026",
     "adresse": "2 R COURTEPEE 21210",
-    "lat": 47.281943,
-    "lon": 4.229349,
+    "lat": null,
+    "lon": null,
     "dept": "21"
   },
   {
@@ -34362,6 +34351,17 @@
     "lat": 43.925982,
     "lon": 2.152149,
     "dept": "81"
+  },
+  {
+    "nom": "GOFFOZ",
+    "prenom": "Bruno",
+    "rpps": "10008440918",
+    "entreprise": "OPTICAL CENTER",
+    "siret": "38237299300511",
+    "adresse": "47 RTE DE BAYONNE 31300",
+    "lat": 43.608042,
+    "lon": 1.392553,
+    "dept": "31"
   },
   {
     "nom": "BENMOUSSA",
@@ -34502,8 +34502,8 @@
     "entreprise": "OPTIC 2000 PARMENTIER",
     "siret": "41088286400011",
     "adresse": "50 AV DE LA REPUBLIQUE 75011",
-    "lat": 48.865031,
-    "lon": 2.374997,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -34766,8 +34766,8 @@
     "entreprise": "MAISON CRESPOS ET WEILL",
     "siret": "93493704600019",
     "adresse": "13 R DE LA RESISTANCE 24100",
-    "lat": null,
-    "lon": null,
+    "lat": 44.853096,
+    "lon": 0.484154,
     "dept": "24"
   },
   {
@@ -35404,8 +35404,8 @@
     "entreprise": "ERA AUDITION",
     "siret": "91258351500016",
     "adresse": "1 AV DE LA RESISTANCE 93340",
-    "lat": null,
-    "lon": null,
+    "lat": 48.890946,
+    "lon": 2.512083,
     "dept": "93"
   },
   {
@@ -35602,8 +35602,8 @@
     "entreprise": "UNIVERSAL AUDITION",
     "siret": "94785305700018",
     "adresse": "173 CHEM DE SAINTE MARTHE 13014",
-    "lat": null,
-    "lon": null,
+    "lat": 43.328337,
+    "lon": 5.387703,
     "dept": "13"
   },
   {
@@ -35635,8 +35635,8 @@
     "entreprise": "NESS AUDIO",
     "siret": "89872391100027",
     "adresse": "R SERPENOISE 57000",
-    "lat": 49.116706,
-    "lon": 6.174984,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -35800,8 +35800,8 @@
     "entreprise": "GRANDAUDITION",
     "siret": "42958858500266",
     "adresse": "16 PL DE LA REPUBLIQUE 75010",
-    "lat": null,
-    "lon": null,
+    "lat": 48.868209,
+    "lon": 2.362312,
     "dept": "75"
   },
   {
@@ -35987,8 +35987,8 @@
     "entreprise": "LYON AUDITION",
     "siret": "44092983400032",
     "adresse": "111 GRANDE RUE 69310",
-    "lat": 45.711595,
-    "lon": 4.821433,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -36053,8 +36053,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311000987",
     "adresse": "86 AV HENRI BARBUSSE 93700",
-    "lat": 48.918174,
-    "lon": 2.448152,
+    "lat": null,
+    "lon": null,
     "dept": "93"
   },
   {
@@ -36273,8 +36273,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891503979",
     "adresse": "20 R THERESE 75001",
-    "lat": 48.866528,
-    "lon": 2.334542,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -36427,8 +36427,8 @@
     "entreprise": "A VOTRE ECOUTE",
     "siret": "50433057200067",
     "adresse": "107 AV DU GENERAL DE GAULLE 77340",
-    "lat": null,
-    "lon": null,
+    "lat": 48.800537,
+    "lon": 2.609591,
     "dept": "77"
   },
   {
@@ -36757,8 +36757,8 @@
     "entreprise": "MUTUALITE FRANCAISE AISNE NORD PAS DE CALAIS",
     "siret": "78371204500708",
     "adresse": "46 R RENE LANOY 62300",
-    "lat": 50.431377,
-    "lon": 2.833287,
+    "lat": 50.431391,
+    "lon": 2.833313,
     "dept": "62"
   },
   {
@@ -36900,8 +36900,8 @@
     "entreprise": "AMPLIFON MONTIGNAC",
     "siret": "31808311012313",
     "adresse": "280 Route de Thonac 24290",
-    "lat": null,
-    "lon": null,
+    "lat": 45.05881,
+    "lon": 1.154283,
     "dept": "24"
   },
   {
@@ -37197,8 +37197,8 @@
     "entreprise": "AUDILAB PAYS DE LA LOIRE",
     "siret": "45079152000015",
     "adresse": "17 ALL DUGUAY TROUIN 44000",
-    "lat": 47.212633,
-    "lon": -1.557132,
+    "lat": null,
+    "lon": null,
     "dept": "44"
   },
   {
@@ -37296,8 +37296,8 @@
     "entreprise": "RENARD AUDIOLOGIE",
     "siret": "37890894100123",
     "adresse": "R MONSIGNY 62200",
-    "lat": 50.724906,
-    "lon": 1.60585,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -37538,8 +37538,8 @@
     "entreprise": "DOLE OPTIC",
     "siret": "78861922900024",
     "adresse": "R LEON BEL 39100",
-    "lat": 47.109171,
-    "lon": 5.507012,
+    "lat": null,
+    "lon": null,
     "dept": "39"
   },
   {
@@ -37703,8 +37703,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007495",
     "adresse": "6 R DE ROSAMEL 62630",
-    "lat": null,
-    "lon": null,
+    "lat": 50.514327,
+    "lon": 1.638384,
     "dept": "62"
   },
   {
@@ -37868,8 +37868,8 @@
     "entreprise": "AUDIO W",
     "siret": "82040518100018",
     "adresse": "6 R CARNOT 59150",
-    "lat": 50.696904,
-    "lon": 3.204102,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -38132,8 +38132,8 @@
     "entreprise": "3CMA",
     "siret": "80410615100033",
     "adresse": "ANCIENNE BA 902 88140",
-    "lat": null,
-    "lon": null,
+    "lat": 48.228282,
+    "lon": 5.836669,
     "dept": "88"
   },
   {
@@ -38198,8 +38198,8 @@
     "entreprise": "SAS CACTUS",
     "siret": "92760717600017",
     "adresse": "8 R DU GENERAL NEWINGER 57220",
-    "lat": 49.179955,
-    "lon": 6.497217,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -38616,8 +38616,8 @@
     "entreprise": "CLERVOY AUDITION",
     "siret": "75186706000053",
     "adresse": "AV DU FIEF ROSE 17140",
-    "lat": 46.175439,
-    "lon": -1.16717,
+    "lat": null,
+    "lon": null,
     "dept": "17"
   },
   {
@@ -38627,8 +38627,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600322",
     "adresse": "12 PL DE LA MAIRIE 56800",
-    "lat": null,
-    "lon": null,
+    "lat": 47.957051,
+    "lon": -2.293103,
     "dept": "56"
   },
   {
@@ -38638,8 +38638,8 @@
     "entreprise": "AIDE AUDITION LLABADOR",
     "siret": "53939602800018",
     "adresse": "86 BD DU VENDEE GLOBE 85100",
-    "lat": null,
-    "lon": null,
+    "lat": 46.49873,
+    "lon": -1.808914,
     "dept": "85"
   },
   {
@@ -38671,8 +38671,8 @@
     "entreprise": "4L AUDIO",
     "siret": "53767404600025",
     "adresse": "1 R DU TRAITE D'AMSTERDAM 44210",
-    "lat": 47.124618,
-    "lon": -2.123415,
+    "lat": null,
+    "lon": null,
     "dept": "44"
   },
   {
@@ -38770,8 +38770,8 @@
     "entreprise": "SARL LEPRETRE AUDITION",
     "siret": "80388083000051",
     "adresse": "16 Quai Duguay-Trouin 35000",
-    "lat": 48.110248,
-    "lon": -1.682095,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -38858,8 +38858,8 @@
     "entreprise": "SAS JUROMA",
     "siret": "52935748500059",
     "adresse": "AV DE LA COMMUNAUTE EUROPEENNE 53000",
-    "lat": 48.055433,
-    "lon": -0.736547,
+    "lat": 48.055436,
+    "lon": -0.736542,
     "dept": "53"
   },
   {
@@ -39144,8 +39144,8 @@
     "entreprise": "CAROPTIC",
     "siret": "43388778300085",
     "adresse": "229 R DE GOUESNOU 29200",
-    "lat": 48.422805,
-    "lon": -4.46668,
+    "lat": null,
+    "lon": null,
     "dept": "29"
   },
   {
@@ -39210,8 +39210,8 @@
     "entreprise": "AUDIOVALOR",
     "siret": "51380188600021",
     "adresse": "ZAC BEAULIEU 17138",
-    "lat": 46.175327,
-    "lon": -1.116475,
+    "lat": null,
+    "lon": null,
     "dept": "17"
   },
   {
@@ -39298,8 +39298,8 @@
     "entreprise": "ENTRE VUES OPTIQUES",
     "siret": "51093137100064",
     "adresse": "21 AV DU GENERAL DE GAULLE 33500",
-    "lat": null,
-    "lon": null,
+    "lat": 44.9073,
+    "lon": -0.231274,
     "dept": "33"
   },
   {
@@ -39375,8 +39375,8 @@
     "entreprise": "MS OPTIC",
     "siret": "81797475100049",
     "adresse": "1 AV FRANCOIS CLAMENS 11300",
-    "lat": 43.0658,
-    "lon": 2.216609,
+    "lat": null,
+    "lon": null,
     "dept": "11"
   },
   {
@@ -39452,8 +39452,8 @@
     "entreprise": "ACOUSTIQUE LES TROIS RIVIERES",
     "siret": "53443320600040",
     "adresse": "330 AV CHARLES DE GAULLE 82000",
-    "lat": 44.008786,
-    "lon": 1.375158,
+    "lat": null,
+    "lon": null,
     "dept": "82"
   },
   {
@@ -39485,8 +39485,8 @@
     "entreprise": "MUTUALITE FRANCAISE GRAND SUD SSAM",
     "siret": "81317979300530",
     "adresse": "12 R DU PARC 30200",
-    "lat": 44.155595,
-    "lon": 4.609948,
+    "lat": null,
+    "lon": null,
     "dept": "30"
   },
   {
@@ -39609,17 +39609,6 @@
     "lat": 43.750254,
     "lon": -1.330554,
     "dept": "40"
-  },
-  {
-    "nom": "TREVIDIC",
-    "prenom": "Damien",
-    "rpps": "10008729930",
-    "entreprise": "AUDITION SUD GIRONDE",
-    "siret": "91916218000013",
-    "adresse": "17 CTRE COMMERCIAL CLOS DU PIN 33410",
-    "lat": 44.644661,
-    "lon": -0.322116,
-    "dept": "33"
   },
   {
     "nom": "FONTENEAU",
@@ -39754,6 +39743,17 @@
     "dept": "33"
   },
   {
+    "nom": "BAZINI",
+    "prenom": "Ali",
+    "rpps": "10008735762",
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
+  },
+  {
     "nom": "SOULES",
     "prenom": "Camille",
     "rpps": "10008737263",
@@ -39782,8 +39782,8 @@
     "entreprise": "BOYMOND GABION OPTICAL",
     "siret": "83906376500029",
     "adresse": "26 ALL JULES MILHAU 34000",
-    "lat": 43.608933,
-    "lon": 3.883305,
+    "lat": null,
+    "lon": null,
     "dept": "34"
   },
   {
@@ -40156,8 +40156,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311003676",
     "adresse": "39 RTE NATIONALE 6 69720",
-    "lat": 45.6931,
-    "lon": 5.029052,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -40519,8 +40519,8 @@
     "entreprise": "MUTUALITE FRANCAISE GRAND SUD SSAM",
     "siret": "81317979301165",
     "adresse": "425 QUAI LOUIS LE VAU 34080",
-    "lat": 43.613751,
-    "lon": 3.824813,
+    "lat": null,
+    "lon": null,
     "dept": "34"
   },
   {
@@ -40937,8 +40937,8 @@
     "entreprise": "SUD AUDITION",
     "siret": "82012742100015",
     "adresse": "11 PL RAOUL COUSTET 13370",
-    "lat": null,
-    "lon": null,
+    "lat": 43.729323,
+    "lon": 5.178192,
     "dept": "13"
   },
   {
@@ -41531,8 +41531,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577005374",
     "adresse": "162 CHARLES DE GAULLE 94130",
-    "lat": 48.838254,
-    "lon": 2.490699,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -41806,8 +41806,8 @@
     "entreprise": "AEL AUDITION",
     "siret": "97794689600031",
     "adresse": "R DE LA LIBERATION 77220",
-    "lat": 48.737802,
-    "lon": 2.773034,
+    "lat": null,
+    "lon": null,
     "dept": "77"
   },
   {
@@ -42686,8 +42686,8 @@
     "entreprise": "AG2M",
     "siret": "91199686600024",
     "adresse": "21 R RENE COTY 76290",
-    "lat": 49.543714,
-    "lon": 0.192189,
+    "lat": null,
+    "lon": null,
     "dept": "76"
   },
   {
@@ -42862,8 +42862,8 @@
     "entreprise": "KOA 2",
     "siret": "91527941800031",
     "adresse": "AV PIERRE MENDES FRANCE 45140",
-    "lat": null,
-    "lon": null,
+    "lat": 47.905066,
+    "lon": 1.867076,
     "dept": "45"
   },
   {
@@ -42928,8 +42928,8 @@
     "entreprise": "ORLEANS AUDIOPROTHESE",
     "siret": "32375167700085",
     "adresse": "2 R ROYALE 45000",
-    "lat": 47.898279,
-    "lon": 1.904344,
+    "lat": null,
+    "lon": null,
     "dept": "45"
   },
   {
@@ -42953,17 +42953,6 @@
     "lat": 49.091968,
     "lon": 1.482031,
     "dept": "27"
-  },
-  {
-    "nom": "MALCOIFFE",
-    "prenom": "Lisa",
-    "rpps": "10009173740",
-    "entreprise": "SOGECA",
-    "siret": "30889577007727",
-    "adresse": "21 BD RICHARD WALLACE 92800",
-    "lat": 48.879752,
-    "lon": 2.239921,
-    "dept": "92"
   },
   {
     "nom": "CARESMEL",
@@ -43324,8 +43313,8 @@
     "entreprise": "RENARD AUDIOLOGIE",
     "siret": "37890894100131",
     "adresse": "45 R DE LA DIVISION LECLERC 62600",
-    "lat": 50.405374,
-    "lon": 1.563175,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -43626,6 +43615,17 @@
     "dept": "59"
   },
   {
+    "nom": "GEORGEAULT",
+    "prenom": "Antonin",
+    "rpps": "10009303636",
+    "entreprise": "SOGECA",
+    "siret": "30889577005622",
+    "adresse": "8 PL DU VERT BUISSON 35170",
+    "lat": 48.029006,
+    "lon": -1.758947,
+    "dept": "35"
+  },
+  {
     "nom": "DECLERCK",
     "prenom": "Henri",
     "rpps": "10009306985",
@@ -43882,12 +43882,12 @@
     "nom": "DAVID",
     "prenom": "Melanie",
     "rpps": "10009337808",
-    "entreprise": "MUTUELLE",
-    "siret": "84487901503522",
-    "adresse": "30 Avenue du Général De Gaulle 44380",
-    "lat": 47.268925,
-    "lon": -2.342869,
-    "dept": "44"
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
   },
   {
     "nom": "NAVET SAUER",
@@ -44490,8 +44490,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577006471",
     "adresse": "1 R DE L'HOTEL DE VILLE 57700",
-    "lat": 49.330178,
-    "lon": 6.064051,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -44776,8 +44776,8 @@
     "entreprise": "TAC AUDITION",
     "siret": "91063421100015",
     "adresse": "14 R HENRI MAINGUET 44230",
-    "lat": 47.206068,
-    "lon": -1.504692,
+    "lat": null,
+    "lon": null,
     "dept": "44"
   },
   {
@@ -45238,8 +45238,8 @@
     "entreprise": "PILPOUSS",
     "siret": "90270376800017",
     "adresse": "131 R DE VERDUN 29200",
-    "lat": 48.398528,
-    "lon": -4.454987,
+    "lat": null,
+    "lon": null,
     "dept": "29"
   },
   {
@@ -46525,8 +46525,8 @@
     "entreprise": "LABO CORRECTION AUDITIVE DE NIMES",
     "siret": "42002509000051",
     "adresse": "17 AV CHARLES DE GAULLE 30190",
-    "lat": 43.924724,
-    "lon": 4.260485,
+    "lat": null,
+    "lon": null,
     "dept": "30"
   },
   {
@@ -46591,8 +46591,8 @@
     "entreprise": "AC-PAPAZIAN",
     "siret": "91797914800025",
     "adresse": "19 BD JACQUES CHAPOU 46800",
-    "lat": 44.337491,
-    "lon": 1.209047,
+    "lat": null,
+    "lon": null,
     "dept": "46"
   },
   {
@@ -46613,8 +46613,8 @@
     "entreprise": "A.A.A",
     "siret": "79952505000016",
     "adresse": "27 R DU DOCTEUR CABRE 97100",
-    "lat": 15.996358,
-    "lon": -61.730973,
+    "lat": null,
+    "lon": null,
     "dept": "97"
   },
   {
@@ -47086,8 +47086,8 @@
     "entreprise": "LABORATOIRE D'AUDIOPROTHESE THOMASSIN",
     "siret": "42029644400102",
     "adresse": "36 CRS BECQUART CASTELBON 38500",
-    "lat": 45.363607,
-    "lon": 5.590736,
+    "lat": null,
+    "lon": null,
     "dept": "38"
   },
   {
@@ -47372,8 +47372,8 @@
     "entreprise": "AUDITION VOIRONNAIS",
     "siret": "98349655500019",
     "adresse": "1 R DES FRERES BICKERT 38430",
-    "lat": 45.32622,
-    "lon": 5.567676,
+    "lat": null,
+    "lon": null,
     "dept": "38"
   },
   {
@@ -47746,8 +47746,8 @@
     "entreprise": "BONN'AUDITION VERNIOZ",
     "siret": "99405622400011",
     "adresse": "1 Place de la Taillanderie 38150",
-    "lat": null,
-    "lon": null,
+    "lat": 45.420999,
+    "lon": 4.90352,
     "dept": "38"
   },
   {
@@ -47788,11 +47788,11 @@
     "prenom": "Catherine",
     "rpps": "10009901280",
     "entreprise": "SOGECA",
-    "siret": "30889577007628",
-    "adresse": "58 AV GAMBETTA 26100",
-    "lat": 45.045562,
-    "lon": 5.060281,
-    "dept": "26"
+    "siret": "30889577004039",
+    "adresse": "404 AV NOTRE-DAME DE SANTE 84200",
+    "lat": 44.060469,
+    "lon": 5.048846,
+    "dept": "84"
   },
   {
     "nom": "MARCARIAN",
@@ -48527,8 +48527,8 @@
     "entreprise": "AUDIOCENTRE DAMATO",
     "siret": "92220833500013",
     "adresse": "7 BD LUCIEN DEGUT 13500",
-    "lat": null,
-    "lon": null,
+    "lat": 43.402495,
+    "lon": 5.051066,
     "dept": "13"
   },
   {
@@ -48824,8 +48824,8 @@
     "entreprise": "OPTICAL CENTER",
     "siret": "38237299300347",
     "adresse": "37 R DE ROME 13001",
-    "lat": null,
-    "lon": null,
+    "lat": 43.294339,
+    "lon": 5.378998,
     "dept": "13"
   },
   {
@@ -49121,8 +49121,8 @@
     "entreprise": "MUTUALITE FRANCAISE AISNE NORD PAS DE CALAIS",
     "siret": "78371204501110",
     "adresse": "19 PL VICTOR HUGO 62500",
-    "lat": 50.748485,
-    "lon": 2.253059,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -49143,8 +49143,8 @@
     "entreprise": "AUDILAB VAL DE FRANCE",
     "siret": "44130515800186",
     "adresse": "16 R BANNIER 45000",
-    "lat": 47.903507,
-    "lon": 1.903374,
+    "lat": null,
+    "lon": null,
     "dept": "45"
   },
   {
@@ -49231,8 +49231,8 @@
     "entreprise": "AURIS",
     "siret": "91463113000020",
     "adresse": "9 RUE HAMELIN 14130",
-    "lat": 49.287208,
-    "lon": 0.187322,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -49297,8 +49297,8 @@
     "entreprise": "MUTUALITE FRANCAISE PACA SSAM",
     "siret": "35209813101041",
     "adresse": "1581 AV PAUL JULLIEN 13100",
-    "lat": 43.509437,
-    "lon": 5.493136,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -49671,8 +49671,8 @@
     "entreprise": "FRANCONVILLE AUDITION",
     "siret": "89494641700017",
     "adresse": "107 R DU GENERAL LECLERC 95130",
-    "lat": 48.98386,
-    "lon": 2.227446,
+    "lat": null,
+    "lon": null,
     "dept": "95"
   },
   {
@@ -49693,8 +49693,8 @@
     "entreprise": "OPTICAL CENTER",
     "siret": "38237299300305",
     "adresse": "10 R DU VAISSEAU 59650",
-    "lat": 50.616244,
-    "lon": 3.126216,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -49858,8 +49858,8 @@
     "entreprise": "VERIN AUDITION",
     "siret": "53755619300028",
     "adresse": "2 R LOUIS PASTEUR 59400",
-    "lat": 50.176262,
-    "lon": 3.23331,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -50089,8 +50089,8 @@
     "entreprise": "DLM AUDITION",
     "siret": "93862052300010",
     "adresse": "15 PL CHARLES DE GAULLE 59270",
-    "lat": 50.739002,
-    "lon": 2.734679,
+    "lat": 50.739017,
+    "lon": 2.734719,
     "dept": "59"
   },
   {
@@ -50103,6 +50103,17 @@
     "lat": 48.753629,
     "lon": 2.305221,
     "dept": "92"
+  },
+  {
+    "nom": "SADAOUI",
+    "prenom": "Amina",
+    "rpps": "10110503496",
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
   },
   {
     "nom": "COHEN",
@@ -50496,8 +50507,8 @@
     "entreprise": "TAILLECOURT OPTIC",
     "siret": "87954623200023",
     "adresse": "3 R DE LA CROISEE 25400",
-    "lat": 47.493196,
-    "lon": 6.84032,
+    "lat": null,
+    "lon": null,
     "dept": "25"
   },
   {
@@ -50507,8 +50518,8 @@
     "entreprise": "AUDISENS",
     "siret": "93895594500010",
     "adresse": "40 Rue Gay-Lussac 75005",
-    "lat": null,
-    "lon": null,
+    "lat": 48.843699,
+    "lon": 2.342194,
     "dept": "75"
   },
   {
@@ -50518,8 +50529,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577003270",
     "adresse": "48 R DE LA REPUBLIQUE 85200",
-    "lat": null,
-    "lon": null,
+    "lat": 46.464751,
+    "lon": -0.80211,
     "dept": "85"
   },
   {
@@ -50859,8 +50870,8 @@
     "entreprise": "2B AUDITION HALLENNES",
     "siret": "90261520200014",
     "adresse": "290 R DES BOURRELIERS 59320",
-    "lat": 50.605853,
-    "lon": 2.958972,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -50881,8 +50892,8 @@
     "entreprise": "GA2",
     "siret": "92872579500027",
     "adresse": "8 Cours Marechal Foch 13400",
-    "lat": null,
-    "lon": null,
+    "lat": 43.293413,
+    "lon": 5.567955,
     "dept": "13"
   },
   {
@@ -50947,8 +50958,8 @@
     "entreprise": "AUDILAB CHARENTE",
     "siret": "52238230800016",
     "adresse": "33 BD DENFERT ROCHEREAU 16100",
-    "lat": null,
-    "lon": null,
+    "lat": 45.694666,
+    "lon": -0.325773,
     "dept": "16"
   },
   {
@@ -51038,6 +51049,17 @@
     "lat": 48.792496,
     "lon": 2.463074,
     "dept": "94"
+  },
+  {
+    "nom": "DUBREIL",
+    "prenom": "Milo",
+    "rpps": "10111724364",
+    "entreprise": "SOGECA",
+    "siret": "30889577003965",
+    "adresse": "21 R LAMARTINE 84300",
+    "lat": 43.83599,
+    "lon": 5.038009,
+    "dept": "84"
   },
   {
     "nom": "GOURI",
@@ -51145,8 +51167,8 @@
     "entreprise": "NIZARD CONSULTING",
     "siret": "93835250700017",
     "adresse": "85 Rue Petit 75019",
-    "lat": 48.886309,
-    "lon": 2.391171,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -51189,8 +51211,8 @@
     "entreprise": "JADIO",
     "siret": "88232084900012",
     "adresse": "68 R DE NEUILLY 92110",
-    "lat": 48.902396,
-    "lon": 2.30323,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -51214,17 +51236,6 @@
     "lat": 45.194521,
     "lon": 5.735167,
     "dept": "38"
-  },
-  {
-    "nom": "TAILHANDIER",
-    "prenom": "Thibaut",
-    "rpps": "10111980180",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
   },
   {
     "nom": "ROUAN",
@@ -51255,8 +51266,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577000607",
     "adresse": "55 R DU GRAND FAUBOURG 28000",
-    "lat": 48.442855,
-    "lon": 1.480365,
+    "lat": null,
+    "lon": null,
     "dept": "28"
   },
   {
@@ -51574,8 +51585,8 @@
     "entreprise": "MUTUALITE FRANCAISE CENTRE ATLANTIQUE",
     "siret": "78145392300323",
     "adresse": "19 BD ALBERT 1ER 17200",
-    "lat": 45.626794,
-    "lon": -1.021402,
+    "lat": null,
+    "lon": null,
     "dept": "17"
   },
   {
@@ -51673,8 +51684,8 @@
     "entreprise": "ECLEAR",
     "siret": "44154303000387",
     "adresse": "274 R DU FBG ST ANTOINE 75012",
-    "lat": 48.848634,
-    "lon": 2.393222,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -51915,8 +51926,8 @@
     "entreprise": "DECIBEL AUDIOPROX",
     "siret": "49949341900083",
     "adresse": "75 AV GABRIEL PERI 93400",
-    "lat": 48.905534,
-    "lon": 2.331718,
+    "lat": null,
+    "lon": null,
     "dept": "93"
   },
   {
@@ -52388,8 +52399,8 @@
     "entreprise": "HDA OPTIQUE ET AUDITION",
     "siret": "88142224000021",
     "adresse": "9 PL DU PANORAMA 92140",
-    "lat": 48.793035,
-    "lon": 2.272008,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -52465,8 +52476,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891501981",
     "adresse": "1 R SAINT-SIMON 78000",
-    "lat": 48.803967,
-    "lon": 2.132996,
+    "lat": null,
+    "lon": null,
     "dept": "78"
   },
   {
@@ -52971,8 +52982,8 @@
     "entreprise": "GRANDVISION FRANCE",
     "siret": "49278795703169",
     "adresse": "R DE THIAIS 94550",
-    "lat": 48.759376,
-    "lon": 2.366909,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -53972,8 +53983,8 @@
     "entreprise": "D.V.F OPTICAL",
     "siret": "75147430500032",
     "adresse": "239 R DU MONT PERREUX 76230",
-    "lat": 49.491229,
-    "lon": 1.144765,
+    "lat": null,
+    "lon": null,
     "dept": "76"
   },
   {
@@ -54302,8 +54313,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311001787",
     "adresse": "4 PL DES PROMENADES POPULLE 42300",
-    "lat": 46.036624,
-    "lon": 4.067599,
+    "lat": null,
+    "lon": null,
     "dept": "42"
   },
   {
@@ -54577,8 +54588,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311011760",
     "adresse": "2 R DE METZ 08200",
-    "lat": 49.698854,
-    "lon": 4.944751,
+    "lat": null,
+    "lon": null,
     "dept": "08"
   },
   {
@@ -54764,8 +54775,8 @@
     "entreprise": "SARL KCOP",
     "siret": "49262363200055",
     "adresse": "56 R SAINT GERMAIN 64190",
-    "lat": 43.322847,
-    "lon": -0.761213,
+    "lat": null,
+    "lon": null,
     "dept": "64"
   },
   {
@@ -55204,8 +55215,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891504738",
     "adresse": "10 R RICHARD WAGNER 33700",
-    "lat": 44.840973,
-    "lon": -0.649964,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -55809,8 +55820,8 @@
     "entreprise": "AUDILAB PAYS DE LA LOIRE",
     "siret": "45079152000262",
     "adresse": "15 R DU MARCHE AU BLE 72200",
-    "lat": 47.700148,
-    "lon": -0.073254,
+    "lat": null,
+    "lon": null,
     "dept": "72"
   },
   {
@@ -55985,8 +55996,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891502005",
     "adresse": "3 PL DE BRETAGNE 22500",
-    "lat": 48.777433,
-    "lon": -3.049848,
+    "lat": 48.777308,
+    "lon": -3.050039,
     "dept": "22"
   },
   {
@@ -56172,8 +56183,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311003296",
     "adresse": "R DE LA FERME 35800",
-    "lat": 48.630699,
-    "lon": -2.132178,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -56194,8 +56205,8 @@
     "entreprise": "L'ECOUTE ACTIVE",
     "siret": "89040658000021",
     "adresse": "R DU CAPITAINE FOURTIER 56460",
-    "lat": 47.821709,
-    "lon": -2.505924,
+    "lat": null,
+    "lon": null,
     "dept": "56"
   },
   {
@@ -56260,8 +56271,8 @@
     "entreprise": "AUDITION BERTOUX",
     "siret": "48376822200018",
     "adresse": "5 R DE MONTMOREAU 16000",
-    "lat": 45.649627,
-    "lon": 0.160591,
+    "lat": null,
+    "lon": null,
     "dept": "16"
   },
   {
@@ -56826,17 +56837,6 @@
     "dept": "92"
   },
   {
-    "nom": "BAZINI",
-    "prenom": "Ali",
-    "rpps": "10008735762",
-    "entreprise": "COURET AUDITION",
-    "siret": "92994471800014",
-    "adresse": "AV DU GENERAL DE GAULLE 64110",
-    "lat": 43.2776,
-    "lon": -0.35306,
-    "dept": "64"
-  },
-  {
     "nom": "KRETZ",
     "prenom": "Anne-laure",
     "rpps": "10008736083",
@@ -57360,8 +57360,8 @@
     "entreprise": "AUDITION JOLY",
     "siret": "89220279700031",
     "adresse": "AV JEAN MARTOURET 43120",
-    "lat": 45.288759,
-    "lon": 4.168105,
+    "lat": null,
+    "lon": null,
     "dept": "43"
   },
   {
@@ -57822,8 +57822,8 @@
     "entreprise": "ANDROUPS AUDITION",
     "siret": "94258403800015",
     "adresse": "13 rue Jean Jaurès 83110",
-    "lat": 43.117452,
-    "lon": 5.803173,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -58177,6 +58177,17 @@
     "lat": null,
     "lon": null,
     "dept": ""
+  },
+  {
+    "nom": "COSCAS",
+    "prenom": "Gilles",
+    "rpps": "10008820382",
+    "entreprise": "COSCAS GILLES SIMON",
+    "siret": "43789645900058",
+    "adresse": "27 Rue des Clos-Saint-marcel 92330",
+    "lat": 48.780497,
+    "lon": 2.282704,
+    "dept": "92"
   },
   {
     "nom": "BISCHOFF",
@@ -58559,8 +58570,8 @@
     "entreprise": "LAUDISENS CHABROL",
     "siret": "90147395900012",
     "adresse": "14 R DE CHABROL 75010",
-    "lat": null,
-    "lon": null,
+    "lat": 48.876755,
+    "lon": 2.354373,
     "dept": "75"
   },
   {
@@ -58757,8 +58768,8 @@
     "entreprise": "GROUPE AUDITION MAGENTA",
     "siret": "92244801400014",
     "adresse": "58 BD DE MAGENTA 75010",
-    "lat": 48.873543,
-    "lon": 2.358772,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -58999,8 +59010,8 @@
     "entreprise": "KOHAI AUDITION",
     "siret": "98077572000017",
     "adresse": "57 AV DU BONTEMPS 95800",
-    "lat": 49.052961,
-    "lon": 2.017089,
+    "lat": null,
+    "lon": null,
     "dept": "95"
   },
   {
@@ -59241,8 +59252,8 @@
     "entreprise": "H.M AUDIO",
     "siret": "93104085100012",
     "adresse": "9 R JEAN LAUGERE 95400",
-    "lat": null,
-    "lon": null,
+    "lat": 48.995183,
+    "lon": 2.417051,
     "dept": "95"
   },
   {
@@ -59670,8 +59681,8 @@
     "entreprise": "VYV 3 CENTRE VAL DE LOIRE MUTUALITE FRANCAISE CENTRE VAL DE LOIRE SSAM",
     "siret": "77534789100936",
     "adresse": "12 R DE LA POTERIE 36100",
-    "lat": 46.94982,
-    "lon": 1.990883,
+    "lat": null,
+    "lon": null,
     "dept": "36"
   },
   {
@@ -59901,8 +59912,8 @@
     "entreprise": "DUB'OPTI'MONDE",
     "siret": "50225835300031",
     "adresse": "AV DE BISCHWILLER 14500",
-    "lat": 48.856617,
-    "lon": -0.872229,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -59912,8 +59923,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311000359",
     "adresse": "22 AV ARISTIDE BRIAND 94110",
-    "lat": 48.809085,
-    "lon": 2.32633,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -61430,8 +61441,8 @@
     "entreprise": "AUDILAB PAYS DE LA LOIRE",
     "siret": "45079152000254",
     "adresse": "161 AV EMILE ZOLA 79100",
-    "lat": 46.998479,
-    "lon": -0.206515,
+    "lat": null,
+    "lon": null,
     "dept": "79"
   },
   {
@@ -61848,8 +61859,8 @@
     "entreprise": "AUDITION CHEVAL-MOISON",
     "siret": "52829179200034",
     "adresse": "35 AV DU PORT 35480",
-    "lat": 47.823447,
-    "lon": -1.836901,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -61947,8 +61958,8 @@
     "entreprise": "PERCEPSONS",
     "siret": "83753384300061",
     "adresse": "AV GEORGES CLEMENCEAU 22400",
-    "lat": 48.462456,
-    "lon": -2.503985,
+    "lat": null,
+    "lon": null,
     "dept": "22"
   },
   {
@@ -62156,8 +62167,8 @@
     "entreprise": "SAS JUROMA",
     "siret": "52935748500182",
     "adresse": "12 R AMBROISE PARE 22360",
-    "lat": 48.497188,
-    "lon": -2.732262,
+    "lat": null,
+    "lon": null,
     "dept": "22"
   },
   {
@@ -62453,8 +62464,8 @@
     "entreprise": "SARL ALOUETTE AUDITION",
     "siret": "51201415000019",
     "adresse": "31 AV DU GENERAL LECLERC 33600",
-    "lat": 44.796192,
-    "lon": -0.666836,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -63234,8 +63245,8 @@
     "entreprise": "LCA ARIEGE",
     "siret": "87981245100018",
     "adresse": "15 CRS COLONEL PETITPIED 09500",
-    "lat": 43.089033,
-    "lon": 1.874653,
+    "lat": null,
+    "lon": null,
     "dept": "09"
   },
   {
@@ -64202,8 +64213,8 @@
     "entreprise": "MUTUALITE FRANCAISE LOIRE-HAUTE LOIRE-PUY DE DOME",
     "siret": "77560243600757",
     "adresse": "2 R MIRABEAU 42350",
-    "lat": null,
-    "lon": null,
+    "lat": 45.479741,
+    "lon": 4.430125,
     "dept": "42"
   },
   {
@@ -64587,8 +64598,8 @@
     "entreprise": "AUDITION MARIE SIRVEN",
     "siret": "51941075700032",
     "adresse": "5 AV DE LA LIBERATION 13130",
-    "lat": null,
-    "lon": null,
+    "lat": 43.476655,
+    "lon": 5.167624,
     "dept": "13"
   },
   {
@@ -64708,8 +64719,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577005127",
     "adresse": "5 AV DU GENERAL DE GAULLE 13380",
-    "lat": 43.345403,
-    "lon": 5.465031,
+    "lat": 43.345413,
+    "lon": 5.465044,
     "dept": "13"
   },
   {
@@ -64730,8 +64741,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311000359",
     "adresse": "22 AV ARISTIDE BRIAND 94110",
-    "lat": 48.809085,
-    "lon": 2.32633,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -64983,8 +64994,8 @@
     "entreprise": "JL AUDITION",
     "siret": "88104900100020",
     "adresse": "8 AV JULES CANTINI 13006",
-    "lat": null,
-    "lon": null,
+    "lat": 43.284527,
+    "lon": 5.386218,
     "dept": "13"
   },
   {
@@ -65410,10 +65421,10 @@
     "prenom": "Inès",
     "rpps": "10109816388",
     "entreprise": "AMPLIFON FRANCE",
-    "siret": "31808311007487",
-    "adresse": "225 BD DE LA LIBERATION 13004",
-    "lat": 43.302552,
-    "lon": 5.395625,
+    "siret": "31808311005218",
+    "adresse": "360 R PARADIS 13008",
+    "lat": 43.278441,
+    "lon": 5.383006,
     "dept": "13"
   },
   {
@@ -65698,8 +65709,8 @@
     "entreprise": "VYV3 NORMANDIE-MUTUALITE FRANCAISE NORMANDIE SERVICE DE SOINS ET D'ACCOMPAGNEMENT MUTUALISTES (SSAM)",
     "siret": "79499427702378",
     "adresse": "69 R DU BON MARCHE 61100",
-    "lat": 48.724403,
-    "lon": -0.58353,
+    "lat": null,
+    "lon": null,
     "dept": "61"
   },
   {
@@ -65863,8 +65874,8 @@
     "entreprise": "GUYON AUDITION BESSIERES",
     "siret": "89196694700014",
     "adresse": "9 PL DU SOUVENIR 31660",
-    "lat": 43.800263,
-    "lon": 1.606486,
+    "lat": null,
+    "lon": null,
     "dept": "31"
   },
   {
@@ -66127,8 +66138,8 @@
     "entreprise": "B.E. AUDITION",
     "siret": "80303875100019",
     "adresse": "41 AV J B CLEMENT 92100",
-    "lat": 48.846103,
-    "lon": 2.237795,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -67194,8 +67205,8 @@
     "entreprise": "ATLANTIC'SURDITE",
     "siret": "35327614000012",
     "adresse": "1 ALL D'ORLEANS 44000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.215049,
+    "lon": -1.556478,
     "dept": "44"
   },
   {
@@ -67348,8 +67359,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007669",
     "adresse": "34 RTE DE TOULOUSE 33800",
-    "lat": 44.813316,
-    "lon": -0.573151,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -67535,8 +67546,8 @@
     "entreprise": "AIDE AUDITION 1",
     "siret": "98367268400039",
     "adresse": "56 Chemin de gibbes 13014",
-    "lat": 43.320992,
-    "lon": 5.380538,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -67645,8 +67656,8 @@
     "entreprise": "LDA BRIENNE LE CHATEAU",
     "siret": "10051308400028",
     "adresse": "9 Place Bonvalot 10500",
-    "lat": 48.391601,
-    "lon": 4.528556,
+    "lat": null,
+    "lon": null,
     "dept": "10"
   },
   {
@@ -67749,6 +67760,28 @@
     "dept": "63"
   },
   {
+    "nom": "TAILHANDIER",
+    "prenom": "Thibaut",
+    "rpps": "10111980180",
+    "entreprise": "SARL PLASS-OPTIC",
+    "siret": "48459498100041",
+    "adresse": "142 R EUGENE DUCRETET 73000",
+    "lat": 45.595342,
+    "lon": 5.896433,
+    "dept": "73"
+  },
+  {
+    "nom": "JOURNO",
+    "prenom": "Adam",
+    "rpps": "10111995501",
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
+  },
+  {
     "nom": "COEZ",
     "prenom": "Arnaud",
     "rpps": "10000370824",
@@ -67788,8 +67821,8 @@
     "entreprise": "AUDIKA SOGECA SAS",
     "siret": "30889577008667",
     "adresse": "1 Place de l'Eglise 78110",
-    "lat": 48.891962,
-    "lon": 2.134301,
+    "lat": null,
+    "lon": null,
     "dept": "78"
   },
   {
@@ -68041,8 +68074,8 @@
     "entreprise": "OD IVRY",
     "siret": "53789238200012",
     "adresse": "1 R GABRIEL PERI 94200",
-    "lat": 48.811808,
-    "lon": 2.384696,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -68547,8 +68580,8 @@
     "entreprise": "LOSAMT",
     "siret": "98268051400014",
     "adresse": "23 R DU PETIT BONNEVEAU 86000",
-    "lat": null,
-    "lon": null,
+    "lat": 46.578614,
+    "lon": 0.33847,
     "dept": "86"
   },
   {
@@ -68701,8 +68734,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007230",
     "adresse": "52 R CHARLES DE GAULLE 69210",
-    "lat": 45.83673,
-    "lon": 4.616721,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -68932,8 +68965,8 @@
     "entreprise": "SARL GERSON AUDIO",
     "siret": "91090065300023",
     "adresse": "241 R GASTON DOUMERGUE 31170",
-    "lat": null,
-    "lon": null,
+    "lat": 43.587606,
+    "lon": 1.355076,
     "dept": "31"
   },
   {
@@ -68998,8 +69031,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311009442",
     "adresse": "28 CRS DU MARECHAL LECLERC 17100",
-    "lat": 45.749455,
-    "lon": -0.64569,
+    "lat": null,
+    "lon": null,
     "dept": "17"
   },
   {
@@ -69108,8 +69141,8 @@
     "entreprise": "GARC",
     "siret": "91963898100010",
     "adresse": "29 R MAL DE LATTRE DE TASSIGNY 33120",
-    "lat": null,
-    "lon": null,
+    "lat": 44.66079,
+    "lon": -1.172671,
     "dept": "33"
   },
   {
@@ -69394,8 +69427,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577008816",
     "adresse": "10 AV JULES FERRY 78340",
-    "lat": null,
-    "lon": null,
+    "lat": 48.82218,
+    "lon": 1.987749,
     "dept": "78"
   },
   {
@@ -69735,8 +69768,8 @@
     "entreprise": "ARIEL AUDITION",
     "siret": "91237438600015",
     "adresse": "88 AV DE LA REPUBLIQUE 94500",
-    "lat": 48.823269,
-    "lon": 2.510643,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -70807,6 +70840,17 @@
     "dept": "13"
   },
   {
+    "nom": "BALOUP DOMINICI",
+    "prenom": "Patrice",
+    "rpps": "10008591488",
+    "entreprise": "SARL ACOUTISQUE DES HALLES",
+    "siret": "40357483300030",
+    "adresse": "5 BD DE CASCAIS 64200",
+    "lat": 43.476478,
+    "lon": -1.5478,
+    "dept": "64"
+  },
+  {
     "nom": "MAUDENS",
     "prenom": "Hugo",
     "rpps": "10008592999",
@@ -70956,8 +71000,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600678",
     "adresse": "27 R GUY ROPARTZ 35700",
-    "lat": 48.129936,
-    "lon": -1.657014,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -71187,8 +71231,8 @@
     "entreprise": "LDA ROMILLY SUR SEINE",
     "siret": "92000435500029",
     "adresse": "19 R DE LA BOULE D'OR 10100",
-    "lat": null,
-    "lon": null,
+    "lat": 48.518459,
+    "lon": 3.72644,
     "dept": "10"
   },
   {
@@ -71770,8 +71814,8 @@
     "entreprise": "AUDITION MANOE",
     "siret": "92848781800025",
     "adresse": "13 R CARNOT 54200",
-    "lat": null,
-    "lon": null,
+    "lat": 48.674357,
+    "lon": 5.889649,
     "dept": "54"
   },
   {
@@ -71814,8 +71858,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577006299",
     "adresse": "21 PL DES VOSGES 54000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.684825,
+    "lon": 6.187837,
     "dept": "54"
   },
   {
@@ -71825,8 +71869,8 @@
     "entreprise": "LABORATOIRE D AUDIOPROTHESE LORRAINE",
     "siret": "33094111300020",
     "adresse": "19 R BANAUDON 54300",
-    "lat": 48.591759,
-    "lon": 6.493814,
+    "lat": null,
+    "lon": null,
     "dept": "54"
   },
   {
@@ -71869,8 +71913,8 @@
     "entreprise": "CORRECTION AUDITIVE BERNTHEISEL",
     "siret": "43367852100033",
     "adresse": "3 AV SAINT REMY 57600",
-    "lat": null,
-    "lon": null,
+    "lat": 49.18914,
+    "lon": 6.903503,
     "dept": "57"
   },
   {
@@ -72034,8 +72078,8 @@
     "entreprise": "ACUITIS FRANCE",
     "siret": "51778087000237",
     "adresse": "100 Rue Saint Dizier 54000",
-    "lat": 48.68801,
-    "lon": 6.184371,
+    "lat": null,
+    "lon": null,
     "dept": "54"
   },
   {
@@ -72078,8 +72122,8 @@
     "entreprise": "ALP AUDITION",
     "siret": "78898443300045",
     "adresse": "75 AV GABRIEL PERI 38400",
-    "lat": 45.186461,
-    "lon": 5.758201,
+    "lat": null,
+    "lon": null,
     "dept": "38"
   },
   {
@@ -72375,8 +72419,8 @@
     "entreprise": "JUBENGA",
     "siret": "83106049600047",
     "adresse": "1 BD ALBERT CAMUS 49100",
-    "lat": null,
-    "lon": null,
+    "lat": 47.487208,
+    "lon": -0.573874,
     "dept": "49"
   },
   {
@@ -72848,8 +72892,8 @@
     "entreprise": "ENTRE VUES OPTIQUES",
     "siret": "51093137100031",
     "adresse": "22 A L ATELIER 33230",
-    "lat": 45.050628,
-    "lon": -0.116888,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -72892,8 +72936,8 @@
     "entreprise": "AMPLIFON MARMANDE MITTERRAD",
     "siret": "31808311012529",
     "adresse": "18 Avenue Francois Mitterrand 47200",
-    "lat": null,
-    "lon": null,
+    "lat": 44.510465,
+    "lon": 0.138825,
     "dept": "47"
   },
   {
@@ -72980,8 +73024,8 @@
     "entreprise": "DB BAGNERES",
     "siret": "84208152300016",
     "adresse": "9 DES COUSTOUS 65200",
-    "lat": null,
-    "lon": null,
+    "lat": 43.063861,
+    "lon": 0.15006,
     "dept": "65"
   },
   {
@@ -73244,8 +73288,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577002769",
     "adresse": "22 R DU TREIZE JUIN 40800",
-    "lat": 43.707154,
-    "lon": -0.261036,
+    "lat": null,
+    "lon": null,
     "dept": "40"
   },
   {
@@ -73354,8 +73398,8 @@
     "entreprise": "PHILIPPE BARBIER AUDITION S.A.S",
     "siret": "44464068400031",
     "adresse": "15 R DE LA REPUBLIQUE 01500",
-    "lat": null,
-    "lon": null,
+    "lat": 45.958953,
+    "lon": 5.356604,
     "dept": "01"
   },
   {
@@ -73673,8 +73717,8 @@
     "entreprise": "SONOVA FRANCE",
     "siret": "31403668200040",
     "adresse": "5 RUE MARYSE BASTIE 69500",
-    "lat": null,
-    "lon": null,
+    "lat": 45.726934,
+    "lon": 4.921415,
     "dept": "69"
   },
   {
@@ -73992,8 +74036,8 @@
     "entreprise": "CLINIQUE DE L'AUDITION",
     "siret": "90171212500011",
     "adresse": "R DU TORPILLEUR SIROCCO 63100",
-    "lat": null,
-    "lon": null,
+    "lat": 45.813215,
+    "lon": 3.106455,
     "dept": "63"
   },
   {
@@ -74146,8 +74190,8 @@
     "entreprise": "CENTRE ACCOUSTIQUE D'ASSAS",
     "siret": "40356027900040",
     "adresse": "PL DE L'AFICION 30600",
-    "lat": 43.689386,
-    "lon": 4.274811,
+    "lat": null,
+    "lon": null,
     "dept": "30"
   },
   {
@@ -74465,8 +74509,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311012065",
     "adresse": "100 IMP DE LA TUILIERE 83550",
-    "lat": 43.426927,
-    "lon": 6.429161,
+    "lat": 43.422388,
+    "lon": 6.426087,
     "dept": "83"
   },
   {
@@ -75323,8 +75367,8 @@
     "entreprise": "SNL-1",
     "siret": "89789463000028",
     "adresse": "72 R D'ALESIA 75014",
-    "lat": 48.828437,
-    "lon": 2.325359,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -76351,17 +76395,6 @@
     "dept": "21"
   },
   {
-    "nom": "BONJEAN BONNARD",
-    "prenom": "Anne-charlotte",
-    "rpps": "10009218909",
-    "entreprise": "SOGECA",
-    "siret": "30889577000847",
-    "adresse": "21 R D'ALSACE 21200",
-    "lat": 47.022385,
-    "lon": 4.839621,
-    "dept": "21"
-  },
-  {
     "nom": "SCHERRER",
     "prenom": "Baptiste",
     "rpps": "10009219972",
@@ -76527,17 +76560,6 @@
     "dept": ""
   },
   {
-    "nom": "BARBIER",
-    "prenom": "Chloé",
-    "rpps": "10009233296",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
-  },
-  {
     "nom": "VERBRUGGHE",
     "prenom": "Laura",
     "rpps": "10009236265",
@@ -76621,8 +76643,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007222",
     "adresse": "39 PRV SAINT-MICHEL 76600",
-    "lat": null,
-    "lon": null,
+    "lat": 49.496802,
+    "lon": 0.109772,
     "dept": "76"
   },
   {
@@ -76764,8 +76786,8 @@
     "entreprise": "AUDIO PROTHESE-AUDITIF - TOURCOING",
     "siret": "44525967400031",
     "adresse": "12 R HENRI BARBUSSE 59223",
-    "lat": null,
-    "lon": null,
+    "lat": 50.75237,
+    "lon": 3.121618,
     "dept": "59"
   },
   {
@@ -77237,8 +77259,8 @@
     "entreprise": "DECIBEL AUDIOPROX",
     "siret": "49949341900091",
     "adresse": "27 AV DU 19 NOVEMBRE 88400",
-    "lat": null,
-    "lon": null,
+    "lat": 48.07132,
+    "lon": 6.871973,
     "dept": "88"
   },
   {
@@ -77391,8 +77413,8 @@
     "entreprise": "SARL CORRECTION AUDITIVE HERT",
     "siret": "40047975400048",
     "adresse": "2 R DE L'INDUSTRIE 67400",
-    "lat": null,
-    "lon": null,
+    "lat": 48.537012,
+    "lon": 7.733059,
     "dept": "67"
   },
   {
@@ -77402,8 +77424,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007214",
     "adresse": "96 AV D'ALTKIRCH 68100",
-    "lat": 47.735661,
-    "lon": 7.330898,
+    "lat": null,
+    "lon": null,
     "dept": "68"
   },
   {
@@ -77754,8 +77776,8 @@
     "entreprise": "ATLANTIC'SURDITE",
     "siret": "35327614000012",
     "adresse": "1 ALL D'ORLEANS 44000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.215049,
+    "lon": -1.556478,
     "dept": "44"
   },
   {
@@ -77776,8 +77798,8 @@
     "entreprise": "CARRIOU AUDITION",
     "siret": "89796614900014",
     "adresse": "LD LA BROSSE 49220",
-    "lat": 47.584987,
-    "lon": -0.762536,
+    "lat": 47.600264,
+    "lon": -0.832182,
     "dept": "49"
   },
   {
@@ -78370,8 +78392,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600447",
     "adresse": "3 QU DU PORT AU VIN 29000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.995408,
+    "lon": -4.105721,
     "dept": "29"
   },
   {
@@ -78535,8 +78557,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311011067",
     "adresse": "134 R DE LA GARE 29380",
-    "lat": null,
-    "lon": null,
+    "lat": 47.927391,
+    "lon": -3.706877,
     "dept": "29"
   },
   {
@@ -78623,8 +78645,8 @@
     "entreprise": "ACOUSTICIA",
     "siret": "82278152200021",
     "adresse": "9 R ABRAHAM DUQUESNE 56400",
-    "lat": null,
-    "lon": null,
+    "lat": 47.663585,
+    "lon": -3.00626,
     "dept": "56"
   },
   {
@@ -79096,8 +79118,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311003288",
     "adresse": "14 BD DE L'AYROLLE 12100",
-    "lat": null,
-    "lon": null,
+    "lat": 44.098812,
+    "lon": 3.076912,
     "dept": "12"
   },
   {
@@ -79107,8 +79129,8 @@
     "entreprise": "AUDITION BAHUAUD",
     "siret": "75330090400095",
     "adresse": "1 AV DE L'ISLE 31800",
-    "lat": null,
-    "lon": null,
+    "lat": 43.109669,
+    "lon": 0.725632,
     "dept": "31"
   },
   {
@@ -79195,8 +79217,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311011257",
     "adresse": "10 PL GEORGES CHAIGNE 33190",
-    "lat": 44.583463,
-    "lon": -0.039414,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -79206,8 +79228,8 @@
     "entreprise": "AUDITION FARGUES",
     "siret": "84219174400023",
     "adresse": "ALL DU HAMEAU SAINT HILAIRE 33370",
-    "lat": null,
-    "lon": null,
+    "lat": 44.825008,
+    "lon": -0.444387,
     "dept": "33"
   },
   {
@@ -79734,8 +79756,8 @@
     "entreprise": "GELLERT DEVT",
     "siret": "51812113200030",
     "adresse": "CHEM DE LARNAC 30100",
-    "lat": null,
-    "lon": null,
+    "lat": 44.110012,
+    "lon": 4.103842,
     "dept": "30"
   },
   {
@@ -79866,8 +79888,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007602",
     "adresse": "12 BD DU GEN DE GAULLE 12200",
-    "lat": null,
-    "lon": null,
+    "lat": 44.351799,
+    "lon": 2.034276,
     "dept": "12"
   },
   {
@@ -80152,8 +80174,8 @@
     "entreprise": "AUDITION 42",
     "siret": "82323433100010",
     "adresse": "52 R GAMBETTA 42000",
-    "lat": 45.430733,
-    "lon": 4.389493,
+    "lat": null,
+    "lon": null,
     "dept": "42"
   },
   {
@@ -80284,8 +80306,8 @@
     "entreprise": "AUDITION BROTTEAUX",
     "siret": "82749158000011",
     "adresse": "130 RUE BUGEAUD 69006",
-    "lat": 45.767027,
-    "lon": 4.855935,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -80471,8 +80493,8 @@
     "entreprise": "AUDITION-EXPERT",
     "siret": "80039029600021",
     "adresse": "2 R FRANCOIS PERON 03000",
-    "lat": null,
-    "lon": null,
+    "lat": 46.566481,
+    "lon": 3.332791,
     "dept": "03"
   },
   {
@@ -81010,8 +81032,8 @@
     "entreprise": "ALTAIRAC",
     "siret": "78955723800019",
     "adresse": "12 R DE LA ROQUETTE 34400",
-    "lat": 43.671968,
-    "lon": 4.137193,
+    "lat": null,
+    "lon": null,
     "dept": "34"
   },
   {
@@ -81373,8 +81395,8 @@
     "entreprise": "BDB",
     "siret": "81464821800042",
     "adresse": "83 R DES POILUS 13600",
-    "lat": 43.177347,
-    "lon": 5.609118,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -81642,6 +81664,17 @@
     "dept": "13"
   },
   {
+    "nom": "CARBONNIER",
+    "prenom": "Ludivine",
+    "rpps": "10010051075",
+    "entreprise": "SAS OCR GRASSE",
+    "siret": "99898056900029",
+    "adresse": "303 Route de Cannes 06130",
+    "lat": 43.625485,
+    "lon": 6.963948,
+    "dept": "06"
+  },
+  {
     "nom": "RUFFAT ESTIENNE",
     "prenom": "Clara",
     "rpps": "10010053089",
@@ -81659,8 +81692,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577006364",
     "adresse": "2 BD CARNOT 13100",
-    "lat": 43.52504,
-    "lon": 5.454479,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -81983,6 +82016,17 @@
     "dept": "13"
   },
   {
+    "nom": "CORBIN",
+    "prenom": "Pierre",
+    "rpps": "10109907146",
+    "entreprise": "APPAREILLAGES PIERRE CORBIN",
+    "siret": "99114598800010",
+    "adresse": "4 Rue René Caillé 79210",
+    "lat": 46.195604,
+    "lon": -0.670838,
+    "dept": "79"
+  },
+  {
     "nom": "DUPLAN",
     "prenom": "Sandrine",
     "rpps": "10109908086",
@@ -82132,8 +82176,8 @@
     "entreprise": "COLIN",
     "siret": "32852212300012",
     "adresse": "96 AV DE VALESCURE 83700",
-    "lat": 43.426634,
-    "lon": 6.769819,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -82154,8 +82198,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311006885",
     "adresse": "21 AV DU MARECHAL JUIN 13700",
-    "lat": 43.418995,
-    "lon": 5.220685,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -82418,8 +82462,8 @@
     "entreprise": "AUDILAB NORMANDIE",
     "siret": "48368871900051",
     "adresse": "4 Rue Édith Piaf 14630",
-    "lat": 49.149006,
-    "lon": -0.262076,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -82814,8 +82858,8 @@
     "entreprise": "AUDIO R",
     "siret": "83235611700024",
     "adresse": "14 AV GUSTAVE DELORY 59100",
-    "lat": 50.676559,
-    "lon": 3.167681,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -82825,8 +82869,8 @@
     "entreprise": "OPTIQUE RICHARD",
     "siret": "48127263100112",
     "adresse": "212 CHEM DES DELPHINIUMS 83190",
-    "lat": 43.122578,
-    "lon": 5.846691,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -83342,8 +83386,8 @@
     "entreprise": "M'CHADAL",
     "siret": "49337858200032",
     "adresse": "3 BD FRANCOIS MITTERRAND 95200",
-    "lat": 48.989482,
-    "lon": 2.376143,
+    "lat": null,
+    "lon": null,
     "dept": "95"
   },
   {
@@ -83463,8 +83507,8 @@
     "entreprise": "MMC OPALE DUBOIS AUDIO",
     "siret": "98438303400027",
     "adresse": "77 R PASCAL 62730",
-    "lat": 50.946717,
-    "lon": 1.939782,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -83518,8 +83562,8 @@
     "entreprise": "LEERS OPTIC",
     "siret": "80832973400038",
     "adresse": "AV DE L'EUROPE 59115",
-    "lat": null,
-    "lon": null,
+    "lat": 50.681954,
+    "lon": 3.221448,
     "dept": "59"
   },
   {
@@ -83565,17 +83609,6 @@
     "lat": 49.24878,
     "lon": 4.014355,
     "dept": "51"
-  },
-  {
-    "nom": "PATOIR",
-    "prenom": "Jean",
-    "rpps": "10111407895",
-    "entreprise": "RONCQ OPTIQUE",
-    "siret": "49172369800016",
-    "adresse": "442 R DE LILLE 59223",
-    "lat": 50.767524,
-    "lon": 3.121353,
-    "dept": "59"
   },
   {
     "nom": "BROCHAND D'AUFERVILLE",
@@ -83892,8 +83925,8 @@
     "entreprise": "AUDILAB PAYS DE LA LOIRE",
     "siret": "45079152000635",
     "adresse": "2 Rue du Bourg Joly 49125",
-    "lat": 47.614574,
-    "lon": -0.467393,
+    "lat": null,
+    "lon": null,
     "dept": "49"
   },
   {
@@ -84013,8 +84046,8 @@
     "entreprise": "AUDITION MAURICE FRERES",
     "siret": "48297260100066",
     "adresse": "96 R BOECKLIN 67000",
-    "lat": 48.603263,
-    "lon": 7.782715,
+    "lat": null,
+    "lon": null,
     "dept": "67"
   },
   {
@@ -84128,25 +84161,14 @@
     "dept": "75"
   },
   {
-    "nom": "DUBREIL",
-    "prenom": "Milo",
-    "rpps": "10111724364",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
-  },
-  {
     "nom": "LAYAZID",
     "prenom": "Naoual",
     "rpps": "10111739651",
     "entreprise": "ABEO AUDITION",
     "siret": "85259720200021",
     "adresse": "4 PL GABRIEL PERI 92000",
-    "lat": 48.889828,
-    "lon": 2.197373,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -84222,8 +84244,8 @@
     "entreprise": "LDA TROYES",
     "siret": "79764405100014",
     "adresse": "65 R ANDRE BEURY 10000",
-    "lat": 48.290463,
-    "lon": 4.076306,
+    "lat": null,
+    "lon": null,
     "dept": "10"
   },
   {
@@ -84662,8 +84684,8 @@
     "entreprise": "AUDILAB TOURAINE",
     "siret": "43925181000073",
     "adresse": "47 AV DE LA REPUBLIQUE 37700",
-    "lat": 47.389552,
-    "lon": 0.721248,
+    "lat": null,
+    "lon": null,
     "dept": "37"
   },
   {
@@ -84893,8 +84915,8 @@
     "entreprise": "DLAC AUDITION",
     "siret": "94902617300037",
     "adresse": "MAISON NEUVE 91220",
-    "lat": null,
-    "lon": null,
+    "lat": 48.587622,
+    "lon": 2.303925,
     "dept": "91"
   },
   {
@@ -85223,8 +85245,8 @@
     "entreprise": "LISIEUX AUDITION",
     "siret": "98249122700012",
     "adresse": "8 AV VICTOR HUGO 14100",
-    "lat": 49.145638,
-    "lon": 0.227151,
+    "lat": null,
+    "lon": null,
     "dept": "14"
   },
   {
@@ -85619,8 +85641,8 @@
     "entreprise": "SASU",
     "siret": "94331406200028",
     "adresse": "105 Rue de Prony 75017",
-    "lat": 48.884597,
-    "lon": 2.29853,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -85806,8 +85828,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577006034",
     "adresse": "55 AV GEORGES CLEMENCEAU 34500",
-    "lat": 43.347152,
-    "lon": 3.218235,
+    "lat": null,
+    "lon": null,
     "dept": "34"
   },
   {
@@ -85905,8 +85927,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311002025",
     "adresse": "118 BD RASPAIL 75006",
-    "lat": 48.844367,
-    "lon": 2.328673,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -86213,8 +86235,8 @@
     "entreprise": "LAURA AUDITION",
     "siret": "91869961200035",
     "adresse": "98 AV DE CLICHY 75017",
-    "lat": null,
-    "lon": null,
+    "lat": 48.889291,
+    "lon": 2.322701,
     "dept": "75"
   },
   {
@@ -86260,6 +86282,17 @@
     "lat": 43.06718,
     "lon": 0.153786,
     "dept": "65"
+  },
+  {
+    "nom": "MEYNIER",
+    "prenom": "Marie",
+    "rpps": "10008532698",
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
   },
   {
     "nom": "BRAMBAN",
@@ -86466,8 +86499,8 @@
     "entreprise": "OSEAN",
     "siret": "85325770700010",
     "adresse": "38 AV DU GENERAL DE GAULLE 94700",
-    "lat": 48.814114,
-    "lon": 2.420877,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -86642,8 +86675,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891503672",
     "adresse": "24 AV FOCH 95240",
-    "lat": null,
-    "lon": null,
+    "lat": 48.970853,
+    "lon": 2.196173,
     "dept": "95"
   },
   {
@@ -86697,8 +86730,8 @@
     "entreprise": "CAOR",
     "siret": "95175190800017",
     "adresse": "23 SQ DE L'EUROPE 93330",
-    "lat": 48.868422,
-    "lon": 2.532882,
+    "lat": null,
+    "lon": null,
     "dept": "93"
   },
   {
@@ -86730,8 +86763,8 @@
     "entreprise": "D.W. INVEST",
     "siret": "98507424400023",
     "adresse": "91 R LAFAYETTE 94210",
-    "lat": 48.80691,
-    "lon": 2.509461,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -87016,8 +87049,8 @@
     "entreprise": "ER OPTIC",
     "siret": "51244033000011",
     "adresse": "R CLAIRE LACOMBE 60740",
-    "lat": 49.241293,
-    "lon": 2.467312,
+    "lat": null,
+    "lon": null,
     "dept": "60"
   },
   {
@@ -87148,8 +87181,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577003403",
     "adresse": "52 QU DE L'ODET 29000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.992281,
+    "lon": -4.109406,
     "dept": "29"
   },
   {
@@ -87236,8 +87269,8 @@
     "entreprise": "AUDISSIMO",
     "siret": "51436775400017",
     "adresse": "61 R ANDRE COQUILLET 45200",
-    "lat": 47.991399,
-    "lon": 2.73237,
+    "lat": 47.991397,
+    "lon": 2.732366,
     "dept": "45"
   },
   {
@@ -87346,8 +87379,8 @@
     "entreprise": "AUDILAB VAL DE FRANCE",
     "siret": "44130515800301",
     "adresse": "1 Rue Mathurin Regnier 28000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.442796,
+    "lon": 1.4873,
     "dept": "28"
   },
   {
@@ -87687,8 +87720,8 @@
     "entreprise": "BIOGROUP BFC - DIJON BRUANT (DARCY)",
     "siret": "33075333600164",
     "adresse": "23 PL DARCY 21000",
-    "lat": 47.323474,
-    "lon": 5.031781,
+    "lat": null,
+    "lon": null,
     "dept": "21"
   },
   {
@@ -87698,8 +87731,8 @@
     "entreprise": "CORRECTION AUDITIVE DURANCE",
     "siret": "80069993600053",
     "adresse": "16 BD DU 14 JUILLET 13500",
-    "lat": 43.408634,
-    "lon": 5.055414,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -88028,8 +88061,8 @@
     "entreprise": "VALMAGE OPTIQUE",
     "siret": "51375669200036",
     "adresse": "RTE DE STEENWERCK 59270",
-    "lat": 50.71849,
-    "lon": 2.762562,
+    "lat": 50.72065,
+    "lon": 2.759335,
     "dept": "59"
   },
   {
@@ -88171,8 +88204,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891503342",
     "adresse": "39 R LEON GAMBETTA 62000",
-    "lat": 50.289272,
-    "lon": 2.775238,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -88215,8 +88248,8 @@
     "entreprise": "VYV3 PAYS DE LA LOIRE",
     "siret": "84487901501518",
     "adresse": "12 AV VILLEBOIS MAREUIL 85600",
-    "lat": null,
-    "lon": null,
+    "lat": 46.979805,
+    "lon": -1.315963,
     "dept": "85"
   },
   {
@@ -88292,8 +88325,8 @@
     "entreprise": "DEMORTIER",
     "siret": "44914334600053",
     "adresse": "6 PL EDMOND ALBIUS 97470",
-    "lat": -21.03341,
-    "lon": 55.714306,
+    "lat": null,
+    "lon": null,
     "dept": "97"
   },
   {
@@ -88391,8 +88424,8 @@
     "entreprise": "OPTIQUE DES CEDRES",
     "siret": "33848479300025",
     "adresse": "259 Route de Lyon 67400",
-    "lat": 48.523235,
-    "lon": 7.707392,
+    "lat": null,
+    "lon": null,
     "dept": "67"
   },
   {
@@ -88413,8 +88446,8 @@
     "entreprise": "OPTIK'ALEX",
     "siret": "91454322800029",
     "adresse": "138 RTE DE NEUF-BRISACH 68000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.080573,
+    "lon": 7.383157,
     "dept": "68"
   },
   {
@@ -88435,8 +88468,8 @@
     "entreprise": "EURL ACOUSTIQUE GEROMOISE",
     "siret": "80418144400022",
     "adresse": "7 R DE LA 3EME DIA 88400",
-    "lat": 48.072153,
-    "lon": 6.870836,
+    "lat": null,
+    "lon": null,
     "dept": "88"
   },
   {
@@ -88567,8 +88600,8 @@
     "entreprise": "SAS AB",
     "siret": "90966658800019",
     "adresse": "44 R ABEL FERRY 88600",
-    "lat": null,
-    "lon": null,
+    "lat": 48.205311,
+    "lon": 6.722099,
     "dept": "88"
   },
   {
@@ -89414,8 +89447,8 @@
     "entreprise": "PORTE DE L'AUDITION",
     "siret": "75257762700108",
     "adresse": "17 Route de Plouvorn 29600",
-    "lat": 48.575506,
-    "lon": -3.847789,
+    "lat": null,
+    "lon": null,
     "dept": "29"
   },
   {
@@ -89513,20 +89546,9 @@
     "entreprise": "MUTUALITÉ BRETAGNE BIENS MÉDICAUX",
     "siret": "39037575600959",
     "adresse": "2 Nationale 56600",
-    "lat": null,
-    "lon": null,
+    "lat": 47.758876,
+    "lon": -3.337,
     "dept": "56"
-  },
-  {
-    "nom": "THOMAS",
-    "prenom": "Philippine",
-    "rpps": "10008700576",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
   },
   {
     "nom": "JEANNEAU",
@@ -89755,8 +89777,8 @@
     "entreprise": "ENTZUN",
     "siret": "94951758500038",
     "adresse": "BD JACQUES DUCLOS 40220",
-    "lat": 43.536615,
-    "lon": -1.461081,
+    "lat": null,
+    "lon": null,
     "dept": "40"
   },
   {
@@ -89810,8 +89832,8 @@
     "entreprise": "JMR SYSTEM",
     "siret": "34274165900078",
     "adresse": "112 ALL DU MAS DE VILLE 30000",
-    "lat": 43.831888,
-    "lon": 4.383341,
+    "lat": null,
+    "lon": null,
     "dept": "30"
   },
   {
@@ -89854,8 +89876,8 @@
     "entreprise": "MC AUDITION",
     "siret": "92062960700036",
     "adresse": "30 R HENRI IV 81100",
-    "lat": null,
-    "lon": null,
+    "lat": 43.605777,
+    "lon": 2.240881,
     "dept": "81"
   },
   {
@@ -91141,8 +91163,8 @@
     "entreprise": "OXANCE",
     "siret": "77576184401716",
     "adresse": "2 BD DE LA LIBERATION 05000",
-    "lat": 44.561231,
-    "lon": 6.079361,
+    "lat": 44.561232,
+    "lon": 6.079351,
     "dept": "05"
   },
   {
@@ -91240,8 +91262,8 @@
     "entreprise": "AUDITION SAINT LAZARE",
     "siret": "48371081000019",
     "adresse": "92 R SAINT-LAZARE 75009",
-    "lat": 48.875866,
-    "lon": 2.328339,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -91438,8 +91460,8 @@
     "entreprise": "SOCIETE D'EXPLOITATION NOUVELLE AUDITION",
     "siret": "89753474900022",
     "adresse": "37 RTE DE CORBEIL 91390",
-    "lat": 48.659696,
-    "lon": 2.340235,
+    "lat": null,
+    "lon": null,
     "dept": "91"
   },
   {
@@ -91669,8 +91691,8 @@
     "entreprise": "AKERIB AUDITION",
     "siret": "79338149200016",
     "adresse": "107 AV PAUL DOUMER 92500",
-    "lat": 48.879541,
-    "lon": 2.180066,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -92065,8 +92087,8 @@
     "entreprise": "VISION DE L'ORGE",
     "siret": "90783653000010",
     "adresse": "1 AV SALVADOR ALLENDE 91180",
-    "lat": null,
-    "lon": null,
+    "lat": 48.592039,
+    "lon": 2.259459,
     "dept": "91"
   },
   {
@@ -92109,8 +92131,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311012040",
     "adresse": "21 AV MAL DE LATTRE DE TASSIGNY 94000",
-    "lat": 48.796216,
-    "lon": 2.457698,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -92142,8 +92164,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577001282",
     "adresse": "44 R DU GENERAL LECLERC 94000",
-    "lat": 48.792114,
-    "lon": 2.463585,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -92175,8 +92197,8 @@
     "entreprise": "APT ERMONT",
     "siret": "90019305300023",
     "adresse": "1 AV DU PDT GEORGES POMPIDOU 95120",
-    "lat": 48.988236,
-    "lon": 2.246592,
+    "lat": null,
+    "lon": null,
     "dept": "95"
   },
   {
@@ -93143,8 +93165,8 @@
     "entreprise": "AUDILAB VAL DE FRANCE",
     "siret": "44130515800251",
     "adresse": "54 AV DE LA REPUBLIQUE 41600",
-    "lat": null,
-    "lon": null,
+    "lat": 47.595624,
+    "lon": 2.02259,
     "dept": "41"
   },
   {
@@ -93154,8 +93176,8 @@
     "entreprise": "AUDILAB TOURAINE",
     "siret": "43925181000131",
     "adresse": "21 AV ANDRE MAGINOT 37100",
-    "lat": 47.409355,
-    "lon": 0.682804,
+    "lat": null,
+    "lon": null,
     "dept": "37"
   },
   {
@@ -93250,12 +93272,12 @@
     "nom": "MALCOIFFE",
     "prenom": "Lisa",
     "rpps": "10009173740",
-    "entreprise": "SOGECA",
-    "siret": "30889577005465",
-    "adresse": "71 R DE BEZONS 92400",
-    "lat": 48.896972,
-    "lon": 2.248035,
-    "dept": "92"
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
   },
   {
     "nom": "CHEBALLAH",
@@ -93297,8 +93319,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311010952",
     "adresse": "10 PL DE LA FONTAINE 50100",
-    "lat": 49.640007,
-    "lon": -1.625689,
+    "lat": null,
+    "lon": null,
     "dept": "50"
   },
   {
@@ -93330,8 +93352,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311006331",
     "adresse": "20 R GAMBETTA 61300",
-    "lat": null,
-    "lon": null,
+    "lat": 48.764951,
+    "lon": 0.625896,
     "dept": "61"
   },
   {
@@ -93487,6 +93509,17 @@
     "lat": 47.508142,
     "lon": 6.795109,
     "dept": "25"
+  },
+  {
+    "nom": "BONJEAN BONNARD",
+    "prenom": "Anne-charlotte",
+    "rpps": "10009218909",
+    "entreprise": "SOGECA",
+    "siret": "30889577001431",
+    "adresse": "17 R DE BRAM 71500",
+    "lat": 46.626665,
+    "lon": 5.215932,
+    "dept": "71"
   },
   {
     "nom": "GUILLEMINET",
@@ -93891,8 +93924,8 @@
     "entreprise": "INSTITUT DE L AUDITION DU PAS DE CALAIS",
     "siret": "38030173900070",
     "adresse": "72 R DU RETUY 62138",
-    "lat": 50.541821,
-    "lon": 2.79314,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -93957,8 +93990,8 @@
     "entreprise": "AUDIO ESTAIRES",
     "siret": "91179803100025",
     "adresse": "13 R DU GENERAL DE GAULLE 59940",
-    "lat": 50.644885,
-    "lon": 2.721551,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -94177,8 +94210,8 @@
     "entreprise": "SARL  LES GRANDS OPTICIENS",
     "siret": "52083411000014",
     "adresse": "4 R DUFAYS 57170",
-    "lat": 48.820683,
-    "lon": 6.507856,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -94408,8 +94441,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577007099",
     "adresse": "289 AV D ALTKIRCH 68350",
-    "lat": null,
-    "lon": null,
+    "lat": 47.721965,
+    "lon": 7.318448,
     "dept": "68"
   },
   {
@@ -94661,8 +94694,8 @@
     "entreprise": "SARL N 2 B",
     "siret": "88935693700017",
     "adresse": "7 RTE DE BAINS 88240",
-    "lat": 48.036514,
-    "lon": 6.331169,
+    "lat": null,
+    "lon": null,
     "dept": "88"
   },
   {
@@ -94991,8 +95024,8 @@
     "entreprise": "TAC AUDITION",
     "siret": "91063421100023",
     "adresse": "4 AV DE BRETAGNE 44980",
-    "lat": 47.250669,
-    "lon": -1.483115,
+    "lat": null,
+    "lon": null,
     "dept": "44"
   },
   {
@@ -95112,8 +95145,8 @@
     "entreprise": "AUDILAB PAYS DE LA LOIRE",
     "siret": "45079152000536",
     "adresse": "93 RTE DE RENNES 44700",
-    "lat": null,
-    "lon": null,
+    "lat": 47.253716,
+    "lon": -1.576933,
     "dept": "44"
   },
   {
@@ -95442,8 +95475,8 @@
     "entreprise": "PERCEPSONS",
     "siret": "83753384300053",
     "adresse": "R DES ORPINS 56190",
-    "lat": 47.55784,
-    "lon": -2.509037,
+    "lat": null,
+    "lon": null,
     "dept": "56"
   },
   {
@@ -95530,8 +95563,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891505446",
     "adresse": "19 AV PIERRE GUEGUIN 29900",
-    "lat": 47.873823,
-    "lon": -3.918512,
+    "lat": null,
+    "lon": null,
     "dept": "29"
   },
   {
@@ -95552,8 +95585,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311003619",
     "adresse": "24 BD DU MAIL 35270",
-    "lat": 48.410771,
-    "lon": -1.750096,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -95761,8 +95794,8 @@
     "entreprise": "AUDITION STEPHANE DELMAS",
     "siret": "48136777900149",
     "adresse": "32 BD DU CDT RENE MOUCHOTTE 64320",
-    "lat": 43.30255,
-    "lon": -0.319794,
+    "lat": null,
+    "lon": null,
     "dept": "64"
   },
   {
@@ -96003,8 +96036,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311002744",
     "adresse": "20 AV JACQUES DOUZANS 31600",
-    "lat": 43.463427,
-    "lon": 1.325602,
+    "lat": null,
+    "lon": null,
     "dept": "31"
   },
   {
@@ -96498,8 +96531,8 @@
     "entreprise": "CLERMONT DISTRIBUTION",
     "siret": "51375004200865",
     "adresse": "37 R THIERS 24700",
-    "lat": 45.009912,
-    "lon": 0.160941,
+    "lat": null,
+    "lon": null,
     "dept": "24"
   },
   {
@@ -96633,6 +96666,17 @@
     "lat": null,
     "lon": null,
     "dept": ""
+  },
+  {
+    "nom": "GHAFOORI",
+    "prenom": "Sadaf",
+    "rpps": "10009714774",
+    "entreprise": "AUDITIONSANTE",
+    "siret": "42322891505461",
+    "adresse": "87200",
+    "lat": null,
+    "lon": null,
+    "dept": "87"
   },
   {
     "nom": "RIGAUD",
@@ -97158,8 +97202,8 @@
     "entreprise": "MUTUALITE FRANCAISE LOIRE-HAUTE LOIRE-PUY DE DOME",
     "siret": "77560243600740",
     "adresse": "88 R DE LA REPUBLIQUE 42400",
-    "lat": 45.475664,
-    "lon": 4.508932,
+    "lat": null,
+    "lon": null,
     "dept": "42"
   },
   {
@@ -97488,8 +97532,8 @@
     "entreprise": "BCA VOIRON",
     "siret": "93947084500024",
     "adresse": "18 Cours Sénozan 38500",
-    "lat": null,
-    "lon": null,
+    "lat": 45.366011,
+    "lon": 5.590907,
     "dept": "38"
   },
   {
@@ -97521,8 +97565,8 @@
     "entreprise": "VIVASON GROUP",
     "siret": "50418950700115",
     "adresse": "32 R PDT EDOUARD HERRIOT 69001",
-    "lat": 45.765974,
-    "lon": 4.834265,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -97719,8 +97763,8 @@
     "entreprise": "AUVERGNE AUDITION",
     "siret": "39218612800055",
     "adresse": "3 R CHAMPVOISIN 63170",
-    "lat": 45.75192,
-    "lon": 3.109238,
+    "lat": null,
+    "lon": null,
     "dept": "63"
   },
   {
@@ -97871,11 +97915,22 @@
     "prenom": "Catherine",
     "rpps": "10009901280",
     "entreprise": "SOGECA",
-    "siret": "30889577005317",
-    "adresse": "43 BD MARECHAL JOFFRE 43000",
-    "lat": 45.049685,
-    "lon": 3.894826,
-    "dept": "43"
+    "siret": "30889577002835",
+    "adresse": "1 VOI LA CANEBIERE 13001",
+    "lat": 43.295496,
+    "lon": 5.374616,
+    "dept": "13"
+  },
+  {
+    "nom": "FREBUTTE",
+    "prenom": "Catherine",
+    "rpps": "10009901280",
+    "entreprise": "SOGECA",
+    "siret": "30889577007024",
+    "adresse": "250 BD BARTHELEMY ABBADIE 13700",
+    "lat": null,
+    "lon": null,
+    "dept": "13"
   },
   {
     "nom": "DUCROS",
@@ -97884,8 +97939,8 @@
     "entreprise": "UNION DES MUTUELLES DE FRANCE MONT BLANC",
     "siret": "77565447800640",
     "adresse": "55 AV DU MONT BLANC 74950",
-    "lat": null,
-    "lon": null,
+    "lat": 46.056539,
+    "lon": 6.556236,
     "dept": "74"
   },
   {
@@ -98148,8 +98203,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577005184",
     "adresse": "AV JEAN MOULIN 34500",
-    "lat": 43.35023,
-    "lon": 3.227584,
+    "lat": null,
+    "lon": null,
     "dept": "34"
   },
   {
@@ -99116,8 +99171,8 @@
     "entreprise": "BENJI OPTIC",
     "siret": "91278432900019",
     "adresse": "73 BD DE SAINT MARCEL 13011",
-    "lat": 43.288858,
-    "lon": 5.459988,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -99138,8 +99193,8 @@
     "entreprise": "BALBI AUDITION GHISONACCIA",
     "siret": "51825863700017",
     "adresse": "STRETTA DI A CISTERNA 20240",
-    "lat": 42.015154,
-    "lon": 9.404171,
+    "lat": null,
+    "lon": null,
     "dept": "20"
   },
   {
@@ -99204,8 +99259,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311010879",
     "adresse": "70 R VOLTAIRE 01220",
-    "lat": null,
-    "lon": null,
+    "lat": 46.355166,
+    "lon": 6.137381,
     "dept": "01"
   },
   {
@@ -99325,8 +99380,8 @@
     "entreprise": "SVB OPTIC",
     "siret": "80538921000065",
     "adresse": "10 AV GEORGES CLEMENCEAU 94130",
-    "lat": null,
-    "lon": null,
+    "lat": 48.83568,
+    "lon": 2.472139,
     "dept": "94"
   },
   {
@@ -99457,8 +99512,8 @@
     "entreprise": "MAZAL AUDITION",
     "siret": "91372379700019",
     "adresse": "7 AV DE CHANZY 93320",
-    "lat": null,
-    "lon": null,
+    "lat": 48.909132,
+    "lon": 2.518148,
     "dept": "93"
   },
   {
@@ -99578,8 +99633,8 @@
     "entreprise": "VYV3 BOURGOGNE",
     "siret": "77556776102492",
     "adresse": "90 R FRANCOIS MITTERRAND 58000",
-    "lat": null,
-    "lon": null,
+    "lat": 46.990813,
+    "lon": 3.161721,
     "dept": "58"
   },
   {
@@ -99655,8 +99710,8 @@
     "entreprise": "AUDILAB PAYS DE LA LOIRE",
     "siret": "45079152000049",
     "adresse": "36 GRANDE RUE 61000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.430254,
+    "lon": 0.088775,
     "dept": "61"
   },
   {
@@ -99688,8 +99743,8 @@
     "entreprise": "INSTITUT DE L AUDITION DU PAS DE CALAIS",
     "siret": "38030173900088",
     "adresse": "33 PL ROGER SALENGRO 62190",
-    "lat": null,
-    "lon": null,
+    "lat": 50.563482,
+    "lon": 2.480928,
     "dept": "62"
   },
   {
@@ -99908,8 +99963,8 @@
     "entreprise": "AUDIKA ALPES",
     "siret": "40415042700163",
     "adresse": "5 AV CHARLES DE GAULLE 73100",
-    "lat": null,
-    "lon": null,
+    "lat": 45.687781,
+    "lon": 5.913489,
     "dept": "73"
   },
   {
@@ -99996,8 +100051,8 @@
     "entreprise": "CAP SUR L'AUDITION",
     "siret": "50862898900065",
     "adresse": "97 AV GEORGES GRATIANT 97232",
-    "lat": null,
-    "lon": null,
+    "lat": 14.618312,
+    "lon": -60.990976,
     "dept": "97"
   },
   {
@@ -100469,8 +100524,8 @@
     "entreprise": "TARN VISION",
     "siret": "90052043800038",
     "adresse": "2 IMP DU PETIT PRINCE 81660",
-    "lat": null,
-    "lon": null,
+    "lat": 43.497585,
+    "lon": 2.400949,
     "dept": "81"
   },
   {
@@ -101107,8 +101162,8 @@
     "entreprise": "LARROUY AUDITION GIRONDE",
     "siret": "95394926000053",
     "adresse": "671 AV VULCAIN 33260",
-    "lat": 44.61364,
-    "lon": -1.118677,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -101129,8 +101184,8 @@
     "entreprise": "SAS L'AUDITION GIRONDINE",
     "siret": "97982541100072",
     "adresse": "5 Rue Gambetta 33290",
-    "lat": 44.910095,
-    "lon": -0.635512,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -101195,8 +101250,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577006521",
     "adresse": "3 AV DE LA REPUBLIQUE 68000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.077931,
+    "lon": 7.353879,
     "dept": "68"
   },
   {
@@ -101272,8 +101327,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891504019",
     "adresse": "1 BD DE LA MARNE 67000",
-    "lat": 48.583514,
-    "lon": 7.772388,
+    "lat": null,
+    "lon": null,
     "dept": "67"
   },
   {
@@ -101327,8 +101382,8 @@
     "entreprise": "AUDITION ECOUTER VOIR GUEUGNON",
     "siret": "77856436900941",
     "adresse": "15 Rue de la Liberté 71130",
-    "lat": 46.600675,
-    "lon": 4.062345,
+    "lat": null,
+    "lon": null,
     "dept": "71"
   },
   {
@@ -101442,6 +101497,17 @@
     "dept": "45"
   },
   {
+    "nom": "ALTENBOURGER",
+    "prenom": "Alix",
+    "rpps": "10111663554",
+    "entreprise": "SOGECA",
+    "siret": "30889577009582",
+    "adresse": "7 Avenue Robert Schuman 41000",
+    "lat": 47.610305,
+    "lon": 1.338113,
+    "dept": "41"
+  },
+  {
     "nom": "BONNISSANT",
     "prenom": "Maxime",
     "rpps": "10111667811",
@@ -101459,8 +101525,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577001589",
     "adresse": "1 R JEAN MERMOZ 92500",
-    "lat": 48.880151,
-    "lon": 2.184757,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -101690,8 +101756,8 @@
     "entreprise": "AMPLIFON PRAYSSAC",
     "siret": "31808311012321",
     "adresse": "ZONE ARTISANALE BERLINGOUS 46220",
-    "lat": 44.503358,
-    "lon": 1.175264,
+    "lat": null,
+    "lon": null,
     "dept": "46"
   },
   {
@@ -101800,8 +101866,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311004294",
     "adresse": "25 R DU GENERAL DUCHESNE 89100",
-    "lat": null,
-    "lon": null,
+    "lat": 48.19829,
+    "lon": 3.281756,
     "dept": "89"
   },
   {
@@ -101932,8 +101998,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577002991",
     "adresse": "4 PL MAL LYAUTEY 56000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.660935,
+    "lon": -2.755729,
     "dept": "56"
   },
   {
@@ -102328,8 +102394,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577000060",
     "adresse": "5 R D'ILLIERS 45000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.902356,
+    "lon": 1.901941,
     "dept": "45"
   },
   {
@@ -102889,8 +102955,8 @@
     "entreprise": "ACUITIS FRANCE",
     "siret": "51778087000047",
     "adresse": "1 PL DES TERNES 75017",
-    "lat": 48.878126,
-    "lon": 2.297441,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -103395,8 +103461,8 @@
     "entreprise": "NC AUDITION",
     "siret": "90210940400035",
     "adresse": "35 AV GABRIEL PERI 93400",
-    "lat": null,
-    "lon": null,
+    "lat": 48.90904,
+    "lon": 2.332999,
     "dept": "93"
   },
   {
@@ -103824,8 +103890,8 @@
     "entreprise": "AUDIO 2C",
     "siret": "83215520400015",
     "adresse": "CENTRE CIAL DE BOISSENART 77240",
-    "lat": null,
-    "lon": null,
+    "lat": 48.558448,
+    "lon": 2.609679,
     "dept": "77"
   },
   {
@@ -104154,8 +104220,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577000839",
     "adresse": "14 R GABRIEL PERI 93200",
-    "lat": null,
-    "lon": null,
+    "lat": 48.931223,
+    "lon": 2.356322,
     "dept": "93"
   },
   {
@@ -104564,6 +104630,17 @@
     "lat": 48.80359,
     "lon": 2.48614,
     "dept": "94"
+  },
+  {
+    "nom": "CHILA",
+    "prenom": "Pauline",
+    "rpps": "10008554197",
+    "entreprise": "SOGECA",
+    "siret": "30889577009525",
+    "adresse": "4 Avenue de Worms 89000",
+    "lat": 47.81209,
+    "lon": 3.569644,
+    "dept": "89"
   },
   {
     "nom": "TABO",
@@ -105639,8 +105716,8 @@
     "entreprise": "VYV3 NORMANDIE-MUTUALITE FRANCAISE NORMANDIE SERVICE DE SOINS ET D'ACCOMPAGNEMENT MUTUALISTES (SSAM)",
     "siret": "79499427702352",
     "adresse": "87 R DE BERNIERES 14000",
-    "lat": null,
-    "lon": null,
+    "lat": 49.181623,
+    "lon": -0.360672,
     "dept": "14"
   },
   {
@@ -105694,8 +105771,8 @@
     "entreprise": "AUDITION GRIVEAUX",
     "siret": "90191048900037",
     "adresse": "8 R DE L'OIR - DUCEY 50220",
-    "lat": 48.617661,
-    "lon": -1.278001,
+    "lat": 48.617522,
+    "lon": -1.278015,
     "dept": "50"
   },
   {
@@ -105859,8 +105936,8 @@
     "entreprise": "MUTUALITE FRANCAISE AISNE NORD PAS DE CALAIS",
     "siret": "78371204500229",
     "adresse": "32 BD GAMBETTA 59100",
-    "lat": null,
-    "lon": null,
+    "lat": 50.691333,
+    "lon": 3.180793,
     "dept": "59"
   },
   {
@@ -107080,8 +107157,8 @@
     "entreprise": "CAP AUDITION",
     "siret": "48317830700011",
     "adresse": "R DU VERCORS 29870",
-    "lat": 48.570885,
-    "lon": -4.510383,
+    "lat": null,
+    "lon": null,
     "dept": "29"
   },
   {
@@ -107723,17 +107800,6 @@
     "dept": "64"
   },
   {
-    "nom": "BAZINI",
-    "prenom": "Ali",
-    "rpps": "10008735762",
-    "entreprise": "ALI BAZINI",
-    "siret": "52888816700079",
-    "adresse": "269 Route de Seysses 31100",
-    "lat": 43.570263,
-    "lon": 1.416007,
-    "dept": "31"
-  },
-  {
     "nom": "RICARANT",
     "prenom": "Celine",
     "rpps": "10008736067",
@@ -107784,8 +107850,8 @@
     "entreprise": "OPTILAF 2",
     "siret": "95159337500029",
     "adresse": "CHEM DE PALAU DEL VIDRE 66700",
-    "lat": 42.55519,
-    "lon": 3.011585,
+    "lat": 42.555209,
+    "lon": 3.011555,
     "dept": "66"
   },
   {
@@ -107883,8 +107949,8 @@
     "entreprise": "CL OPTICAL",
     "siret": "91747328200023",
     "adresse": "60 BD CAMILLE BLANC 34200",
-    "lat": 43.40774,
-    "lon": 3.668031,
+    "lat": null,
+    "lon": null,
     "dept": "34"
   },
   {
@@ -108664,8 +108730,8 @@
     "entreprise": "CORRECTION AUDITIVE PROVENCE",
     "siret": "80132709900090",
     "adresse": "23 AV DU MONT VENTOUX 84200",
-    "lat": 44.057157,
-    "lon": 5.061607,
+    "lat": 44.05593,
+    "lon": 5.053194,
     "dept": "84"
   },
   {
@@ -108730,8 +108796,8 @@
     "entreprise": "AUDITION CONSEIL LABS",
     "siret": "42006305900646",
     "adresse": "434 RTE DE DRAGUIGNAN 83690",
-    "lat": 43.559431,
-    "lon": 6.2476,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -111177,17 +111243,6 @@
     "dept": "70"
   },
   {
-    "nom": "BONJEAN BONNARD",
-    "prenom": "Anne-charlotte",
-    "rpps": "10009218909",
-    "entreprise": "SOGECA",
-    "siret": "30889577001621",
-    "adresse": "2 R DE BESANCON 39100",
-    "lat": 47.094259,
-    "lon": 5.496587,
-    "dept": "39"
-  },
-  {
     "nom": "TALLEC",
     "prenom": "Alizee",
     "rpps": "10009220798",
@@ -111623,8 +111678,8 @@
     "entreprise": "MUTUALITE FRANCAISE AISNE NORD PAS DE CALAIS",
     "siret": "78371204500708",
     "adresse": "46 R RENE LANOY 62300",
-    "lat": 50.431377,
-    "lon": 2.833287,
+    "lat": 50.431391,
+    "lon": 2.833313,
     "dept": "62"
   },
   {
@@ -111703,17 +111758,6 @@
     "lat": 49.986518,
     "lon": 3.455695,
     "dept": "02"
-  },
-  {
-    "nom": "GEORGEAULT",
-    "prenom": "Antonin",
-    "rpps": "10009303636",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
   },
   {
     "nom": "MOISSON",
@@ -111810,8 +111854,8 @@
     "entreprise": "AUDIOPROTHESE DELORMEL",
     "siret": "95127717700022",
     "adresse": "62 PL ROGER SALENGRO 62620",
-    "lat": 50.458818,
-    "lon": 2.613981,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -111964,8 +112008,8 @@
     "entreprise": "ISAD RILLIEUX",
     "siret": "98151698200015",
     "adresse": "28 AV DE L'EUROPE 69140",
-    "lat": 45.813828,
-    "lon": 4.894985,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -112052,8 +112096,8 @@
     "entreprise": "COMPAGNIE  FRANCAISE  D AUDIOLOGIE",
     "siret": "32299730500147",
     "adresse": "7 EN BONNE RUELLE 57000",
-    "lat": 49.116332,
-    "lon": 6.173947,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -112151,8 +112195,8 @@
     "entreprise": "OPTICAL CENTER",
     "siret": "38237299300792",
     "adresse": "140 RTE DES ROMAINS 57100",
-    "lat": 49.354824,
-    "lon": 6.135446,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -112371,8 +112415,8 @@
     "entreprise": "AUDITION PROST",
     "siret": "52938460400060",
     "adresse": "99 GRANDE RUE 25000",
-    "lat": 47.236359,
-    "lon": 6.026036,
+    "lat": null,
+    "lon": null,
     "dept": "25"
   },
   {
@@ -112932,8 +112976,8 @@
     "entreprise": "VYV3 PAYS DE LA LOIRE",
     "siret": "84487901501633",
     "adresse": "2 R DE LA PREE AUX DUCS 85330",
-    "lat": null,
-    "lon": null,
+    "lat": 47.0029,
+    "lon": -2.252495,
     "dept": "85"
   },
   {
@@ -113218,8 +113262,8 @@
     "entreprise": "AUDIOBREIZH",
     "siret": "92016985100028",
     "adresse": "102 R DE L'ALMA 35000",
-    "lat": 48.09776,
-    "lon": -1.675383,
+    "lat": null,
+    "lon": null,
     "dept": "35"
   },
   {
@@ -113405,8 +113449,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577008303",
     "adresse": "13 R DUGUAY TROUIN 29100",
-    "lat": null,
-    "lon": null,
+    "lat": 48.092662,
+    "lon": -4.329757,
     "dept": "29"
   },
   {
@@ -113416,8 +113460,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891500363",
     "adresse": "32 PL RENAULT MORLIERE 53500",
-    "lat": 48.297105,
-    "lon": -0.93841,
+    "lat": null,
+    "lon": null,
     "dept": "53"
   },
   {
@@ -113647,8 +113691,8 @@
     "entreprise": "AUDITION MOREAUX DELMAS",
     "siret": "49246435900032",
     "adresse": "1 AV DANIEL ARGOTE 64300",
-    "lat": 43.483684,
-    "lon": -0.776744,
+    "lat": null,
+    "lon": null,
     "dept": "64"
   },
   {
@@ -113680,8 +113724,8 @@
     "entreprise": "ETS O.P.",
     "siret": "45214802600019",
     "adresse": "66 R EMILE GUICHENNE 64000",
-    "lat": 43.298884,
-    "lon": -0.368144,
+    "lat": null,
+    "lon": null,
     "dept": "64"
   },
   {
@@ -113878,8 +113922,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891503797",
     "adresse": "10 PL D ARMES RESIDENCE VILLABARADE 31220",
-    "lat": null,
-    "lon": null,
+    "lat": 43.206045,
+    "lon": 1.086871,
     "dept": "31"
   },
   {
@@ -113911,8 +113955,8 @@
     "entreprise": "AUDILAB MONTAUBAN",
     "siret": "79395647500057",
     "adresse": "21 AV ANDRE BONNET 82700",
-    "lat": 43.958679,
-    "lon": 1.233988,
+    "lat": null,
+    "lon": null,
     "dept": "82"
   },
   {
@@ -113933,8 +113977,8 @@
     "entreprise": "CENTRE AUDITION",
     "siret": "48042926500055",
     "adresse": "11 BD GAMBETTA 12000",
-    "lat": 44.349933,
-    "lon": 2.572985,
+    "lat": null,
+    "lon": null,
     "dept": "12"
   },
   {
@@ -114164,8 +114208,8 @@
     "entreprise": "CZ'OPTIC",
     "siret": "53159443000013",
     "adresse": "24 AV JACQUES BORDENEUVE 47300",
-    "lat": null,
-    "lon": null,
+    "lat": 44.404499,
+    "lon": 0.696941,
     "dept": "47"
   },
   {
@@ -114439,8 +114483,8 @@
     "entreprise": "AUDILAB MONTAUBAN",
     "siret": "79395647500065",
     "adresse": "13 R JOLIOT CURIE 82600",
-    "lat": 43.852141,
-    "lon": 1.234394,
+    "lat": null,
+    "lon": null,
     "dept": "82"
   },
   {
@@ -115533,17 +115577,6 @@
     "dept": ""
   },
   {
-    "nom": "ZEMMOUR",
-    "prenom": "Noam",
-    "rpps": "10009916098",
-    "entreprise": "KETER 26",
-    "siret": "91962097100011",
-    "adresse": "391 BD ROMAIN ROLLAND 13009",
-    "lat": 43.270266,
-    "lon": 5.406898,
-    "dept": "13"
-  },
-  {
     "nom": "FROMENT",
     "prenom": "Melodie",
     "rpps": "10009916288",
@@ -116210,8 +116243,8 @@
     "entreprise": "AUDITION DURIF",
     "siret": "89244825900044",
     "adresse": "561 RTE DE TRETS 83910",
-    "lat": null,
-    "lon": null,
+    "lat": 43.496775,
+    "lon": 5.731425,
     "dept": "83"
   },
   {
@@ -116639,8 +116672,8 @@
     "entreprise": "HF AUDITION",
     "siret": "93796600000013",
     "adresse": "149 R DU ROUET 13008",
-    "lat": null,
-    "lon": null,
+    "lat": 43.278721,
+    "lon": 5.392142,
     "dept": "13"
   },
   {
@@ -116826,8 +116859,8 @@
     "entreprise": "MUTUALITE FRANCAISE AISNE NORD PAS DE CALAIS",
     "siret": "78371204500443",
     "adresse": "118 R DE DUNKERQUE 59280",
-    "lat": 50.6887,
-    "lon": 2.88026,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -117057,8 +117090,8 @@
     "entreprise": "PERRIER 73",
     "siret": "78874733500081",
     "adresse": "113 QUAI DE L EGLISE 38530",
-    "lat": 45.434088,
-    "lon": 6.022398,
+    "lat": null,
+    "lon": null,
     "dept": "38"
   },
   {
@@ -117651,8 +117684,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577000904",
     "adresse": "25 R DU MARECHAL FOCH 78000",
-    "lat": 48.807418,
-    "lon": 2.132408,
+    "lat": null,
+    "lon": null,
     "dept": "78"
   },
   {
@@ -117849,8 +117882,8 @@
     "entreprise": "AUDILAB VAL DE FRANCE",
     "siret": "44130515800293",
     "adresse": "34 R NATIONALE (CLOYES-SUR-LE-LOIR) 28220",
-    "lat": 47.997044,
-    "lon": 1.234609,
+    "lat": null,
+    "lon": null,
     "dept": "28"
   },
   {
@@ -118322,8 +118355,8 @@
     "entreprise": "MUTUALITE FRANCAISE AISNE NORD PAS DE CALAIS",
     "siret": "78371204500443",
     "adresse": "118 R DE DUNKERQUE 59280",
-    "lat": null,
-    "lon": null,
+    "lat": 50.6887,
+    "lon": 2.88026,
     "dept": "59"
   },
   {
@@ -118388,8 +118421,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891504704",
     "adresse": "347 RTE DE TOULOUSE 33140",
-    "lat": 44.80086,
-    "lon": -0.570599,
+    "lat": null,
+    "lon": null,
     "dept": "33"
   },
   {
@@ -118454,8 +118487,8 @@
     "entreprise": "SAS K AUDITION SANNOIS",
     "siret": "94866122800015",
     "adresse": "7 PL DU GENERAL LECLERC 95110",
-    "lat": null,
-    "lon": null,
+    "lat": 48.971747,
+    "lon": 2.256825,
     "dept": "95"
   },
   {
@@ -118531,8 +118564,8 @@
     "entreprise": "AUDITION LANGLET",
     "siret": "50758971100054",
     "adresse": "58 AV DES REYNATS 24650",
-    "lat": 45.201064,
-    "lon": 0.669898,
+    "lat": null,
+    "lon": null,
     "dept": "24"
   },
   {
@@ -118553,8 +118586,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577004260",
     "adresse": "28 R FONT DE CHERVES 17200",
-    "lat": null,
-    "lon": null,
+    "lat": 45.627386,
+    "lon": -1.030272,
     "dept": "17"
   },
   {
@@ -118597,8 +118630,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311002116",
     "adresse": "24 R DE LA PAROISSE 77300",
-    "lat": null,
-    "lon": null,
+    "lat": 48.406997,
+    "lon": 2.699024,
     "dept": "77"
   },
   {
@@ -118894,8 +118927,8 @@
     "entreprise": "PHI OPTIQUE",
     "siret": "50865961200016",
     "adresse": "4 R DU SAULCY 54300",
-    "lat": null,
-    "lon": null,
+    "lat": 48.577478,
+    "lon": 6.516635,
     "dept": "54"
   },
   {
@@ -119169,8 +119202,8 @@
     "entreprise": "LCA CHANTEUR - KA",
     "siret": "82870581400063",
     "adresse": "462 AV ALPHONSE DAUDET 40600",
-    "lat": 44.397128,
-    "lon": -1.16313,
+    "lat": null,
+    "lon": null,
     "dept": "40"
   },
   {
@@ -119763,8 +119796,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311002181",
     "adresse": "57 R DE LA REPUBLIQUE 73200",
-    "lat": 45.676217,
-    "lon": 6.390093,
+    "lat": null,
+    "lon": null,
     "dept": "73"
   },
   {
@@ -119851,8 +119884,8 @@
     "entreprise": "AUDITION FRERES FRANCOIS",
     "siret": "49920369300019",
     "adresse": "9 R DE LA SCELLERIE 37000",
-    "lat": null,
-    "lon": null,
+    "lat": 47.393967,
+    "lon": 0.688177,
     "dept": "37"
   },
   {
@@ -119972,8 +120005,8 @@
     "entreprise": "DESMONS NORD",
     "siret": "52833634000047",
     "adresse": "AV DU LAC 62290",
-    "lat": 50.475345,
-    "lon": 2.677613,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -120071,8 +120104,8 @@
     "entreprise": "CAP AUDITION",
     "siret": "52992769100012",
     "adresse": "4 R DE LA SEUDRE 17390",
-    "lat": null,
-    "lon": null,
+    "lat": 45.769566,
+    "lon": -1.140951,
     "dept": "17"
   },
   {
@@ -120236,8 +120269,8 @@
     "entreprise": "OPTICAL CENTER",
     "siret": "38237299300636",
     "adresse": "74 RUE LAUGIER 75017",
-    "lat": 48.884299,
-    "lon": 2.292218,
+    "lat": null,
+    "lon": null,
     "dept": "75"
   },
   {
@@ -120335,8 +120368,8 @@
     "entreprise": "ECLEAR",
     "siret": "44154303000338",
     "adresse": "76 R DU PDT WILSON 92300",
-    "lat": 48.894024,
-    "lon": 2.288697,
+    "lat": null,
+    "lon": null,
     "dept": "92"
   },
   {
@@ -120687,8 +120720,8 @@
     "entreprise": "S2L POISSY",
     "siret": "91454732800015",
     "adresse": "60 R DU GENERAL DE GAULLE 78300",
-    "lat": null,
-    "lon": null,
+    "lat": 48.930101,
+    "lon": 2.041523,
     "dept": "78"
   },
   {
@@ -120819,8 +120852,8 @@
     "entreprise": "BS AUDITION",
     "siret": "97841458900025",
     "adresse": "5 PL DE LA HALLE 60300",
-    "lat": null,
-    "lon": null,
+    "lat": 49.205078,
+    "lon": 2.58488,
     "dept": "60"
   },
   {
@@ -120830,8 +120863,8 @@
     "entreprise": "ESE AUDITION",
     "siret": "90797825800016",
     "adresse": "55 AV JEAN JAURES 93220",
-    "lat": 48.883314,
-    "lon": 2.528726,
+    "lat": null,
+    "lon": null,
     "dept": "93"
   },
   {
@@ -121044,17 +121077,6 @@
     "dept": "94"
   },
   {
-    "nom": "MEYNIER",
-    "prenom": "Marie",
-    "rpps": "10008532698",
-    "entreprise": "KARUKERA AUDITION",
-    "siret": "48983547000050",
-    "adresse": "R FREBAULT 97110",
-    "lat": 16.241297,
-    "lon": -61.534835,
-    "dept": "97"
-  },
-  {
     "nom": "BEN AMMOU",
     "prenom": "Clara",
     "rpps": "10008532771",
@@ -121094,8 +121116,8 @@
     "entreprise": "ARIELLE HEARING",
     "siret": "97912072200025",
     "adresse": "63 AV DU GENERAL GALLIENI 94340",
-    "lat": 48.820129,
-    "lon": 2.481324,
+    "lat": null,
+    "lon": null,
     "dept": "94"
   },
   {
@@ -121660,17 +121682,6 @@
     "dept": "95"
   },
   {
-    "nom": "BENSIMON",
-    "prenom": "Dimitri",
-    "rpps": "10008552613",
-    "entreprise": "MANEO SAINT-QUENTIN",
-    "siret": "93392099300013",
-    "adresse": "R DU 19 MARS 1962 02100",
-    "lat": 49.86494,
-    "lon": 3.289844,
-    "dept": "02"
-  },
-  {
     "nom": "SEBAAGH",
     "prenom": "Raphael",
     "rpps": "10008552654",
@@ -121889,6 +121900,17 @@
     "lat": 49.109545,
     "lon": 6.682161,
     "dept": "57"
+  },
+  {
+    "nom": "CANEVE",
+    "prenom": "Ghislaine",
+    "rpps": "10008558479",
+    "entreprise": "AMPLIFON FRANCE",
+    "siret": "31808311006208",
+    "adresse": "8 PL DU 19 MARS 1962 89400",
+    "lat": 47.962402,
+    "lon": 3.51536,
+    "dept": "89"
   },
   {
     "nom": "TRIBUT",
@@ -122370,8 +122392,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600314",
     "adresse": "4 R ALBERT SCHWEITZER 29300",
-    "lat": 47.869314,
-    "lon": -3.586079,
+    "lat": 47.869295,
+    "lon": -3.586144,
     "dept": "29"
   },
   {
@@ -122568,8 +122590,8 @@
     "entreprise": "AUDITION CONCEPT",
     "siret": "48484732200027",
     "adresse": "86 AV BAUDIN 87000",
-    "lat": null,
-    "lon": null,
+    "lat": 45.822873,
+    "lon": 1.256397,
     "dept": "87"
   },
   {
@@ -122656,8 +122678,8 @@
     "entreprise": "DEAUVILLE AUDITION",
     "siret": "53288314700011",
     "adresse": "10 AV DE LA REPUBLIQUE 14800",
-    "lat": null,
-    "lon": null,
+    "lat": 49.36083,
+    "lon": 0.083962,
     "dept": "14"
   },
   {
@@ -122843,8 +122865,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577005846",
     "adresse": "23 BD CARNOT 87000",
-    "lat": 45.832429,
-    "lon": 1.260206,
+    "lat": null,
+    "lon": null,
     "dept": "87"
   },
   {
@@ -122931,8 +122953,8 @@
     "entreprise": "LCA TALANT",
     "siret": "93989719500011",
     "adresse": "28 Boulevard des Clomiers 21240",
-    "lat": 47.332348,
-    "lon": 5.014639,
+    "lat": null,
+    "lon": null,
     "dept": "21"
   },
   {
@@ -123063,8 +123085,8 @@
     "entreprise": "OKIALI 3.8",
     "siret": "84243290800015",
     "adresse": "3 R WACQUEZ-GLASSON 62000",
-    "lat": 50.289725,
-    "lon": 2.779298,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -123118,8 +123140,8 @@
     "entreprise": "ALEXIA",
     "siret": "50105114800028",
     "adresse": "AV DE L'EUROPE 59270",
-    "lat": 50.72618,
-    "lon": 2.73406,
+    "lat": 50.726156,
+    "lon": 2.735223,
     "dept": "59"
   },
   {
@@ -123602,8 +123624,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311008725",
     "adresse": "8 R DE REISET 68000",
-    "lat": 48.078914,
-    "lon": 7.357612,
+    "lat": null,
+    "lon": null,
     "dept": "68"
   },
   {
@@ -123745,8 +123767,8 @@
     "entreprise": "S.V.A.",
     "siret": "80320481700024",
     "adresse": "36 GR GRANDE RUE 25800",
-    "lat": 47.147626,
-    "lon": 6.342811,
+    "lat": null,
+    "lon": null,
     "dept": "25"
   },
   {
@@ -123833,8 +123855,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311004922",
     "adresse": "139 BD D'ITALIE 85000",
-    "lat": null,
-    "lon": null,
+    "lat": 46.666179,
+    "lon": -1.41951,
     "dept": "85"
   },
   {
@@ -124020,8 +124042,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600314",
     "adresse": "4 R ALBERT SCHWEITZER 29300",
-    "lat": 47.869314,
-    "lon": -3.586079,
+    "lat": 47.869295,
+    "lon": -3.586144,
     "dept": "29"
   },
   {
@@ -124108,8 +124130,8 @@
     "entreprise": "LA MIGNONNE AUDITION",
     "siret": "90349174400020",
     "adresse": "8 R DE BREST 29460",
-    "lat": null,
-    "lon": null,
+    "lat": 48.361823,
+    "lon": -4.25978,
     "dept": "29"
   },
   {
@@ -124174,8 +124196,8 @@
     "entreprise": "ACTION AUDITION",
     "siret": "82082653500032",
     "adresse": "1 R MARECHAL JOFFRE 44510",
-    "lat": 47.275393,
-    "lon": -2.430341,
+    "lat": null,
+    "lon": null,
     "dept": "44"
   },
   {
@@ -124295,8 +124317,8 @@
     "entreprise": "MUTUALITE BRETAGNE BIENS MEDICAUX",
     "siret": "39037575600546",
     "adresse": "8 R JULES VALLES 35000",
-    "lat": null,
-    "lon": null,
+    "lat": 48.104834,
+    "lon": -1.708956,
     "dept": "35"
   },
   {
@@ -124438,8 +124460,8 @@
     "entreprise": "AUDILAB RENNES EMERAUDE",
     "siret": "83950502100023",
     "adresse": "3 BD DU GENERAL DE GAULLE 35460",
-    "lat": null,
-    "lon": null,
+    "lat": 48.411629,
+    "lon": -1.365278,
     "dept": "35"
   },
   {
@@ -124647,8 +124669,8 @@
     "entreprise": "AUDIOVALOR",
     "siret": "51380188600070",
     "adresse": "30 AV DE ILE D'OLERON 17137",
-    "lat": 46.230532,
-    "lon": -1.134304,
+    "lat": null,
+    "lon": null,
     "dept": "17"
   },
   {
@@ -124680,8 +124702,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577003890",
     "adresse": "61 R CARREROT 64400",
-    "lat": 43.192024,
-    "lon": -0.6132,
+    "lat": null,
+    "lon": null,
     "dept": "64"
   },
   {
@@ -125312,6 +125334,17 @@
     "dept": "40"
   },
   {
+    "nom": "ROCA",
+    "prenom": "Milla",
+    "rpps": "10008733981",
+    "entreprise": "DUOPTIC",
+    "siret": "52058336000018",
+    "adresse": "R DANIELLE CASANOVA 31600",
+    "lat": 43.490318,
+    "lon": 1.319535,
+    "dept": "31"
+  },
+  {
     "nom": "VILLEJOUBERT",
     "prenom": "Louis",
     "rpps": "10008734237",
@@ -125373,8 +125406,8 @@
     "entreprise": "AUDITION TOLOSANE",
     "siret": "93080256600016",
     "adresse": "2 R DU STADE 31320",
-    "lat": null,
-    "lon": null,
+    "lat": 43.515369,
+    "lon": 1.499244,
     "dept": "31"
   },
   {
@@ -125615,8 +125648,8 @@
     "entreprise": "ADELINE AUDITION",
     "siret": "45016695400013",
     "adresse": "55 R DE LA CHARITE 69002",
-    "lat": 45.750225,
-    "lon": 4.830273,
+    "lat": null,
+    "lon": null,
     "dept": "69"
   },
   {
@@ -125978,8 +126011,8 @@
     "entreprise": "AUDITION DES LACS",
     "siret": "83471876900039",
     "adresse": "11 Rue des Pommaries 74940",
-    "lat": 45.910215,
-    "lon": 6.144284,
+    "lat": null,
+    "lon": null,
     "dept": "74"
   },
   {
@@ -126066,8 +126099,8 @@
     "entreprise": "OXANCE",
     "siret": "77576184400890",
     "adresse": "6 PL DU VINGT TROIS AOUT 1944 38300",
-    "lat": 45.585708,
-    "lon": 5.278009,
+    "lat": null,
+    "lon": null,
     "dept": "38"
   },
   {
@@ -126264,8 +126297,8 @@
     "entreprise": "RIVIAL AUDITION",
     "siret": "81390839900013",
     "adresse": "AV DE VERDUN 04300",
-    "lat": 43.95846,
-    "lon": 5.777605,
+    "lat": 43.958609,
+    "lon": 5.777803,
     "dept": "04"
   },
   {
@@ -126308,8 +126341,8 @@
     "entreprise": "CORRECTION AUDITIVE DURANCE",
     "siret": "80069993600087",
     "adresse": "286 CRS BOURNISSAC 84300",
-    "lat": null,
-    "lon": null,
+    "lat": 43.835194,
+    "lon": 5.04014,
     "dept": "84"
   },
   {
@@ -126759,8 +126792,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577008436",
     "adresse": "7 R DE LA CROIX GRIGNON 91190",
-    "lat": null,
-    "lon": null,
+    "lat": 48.699145,
+    "lon": 2.136462,
     "dept": "91"
   },
   {
@@ -127056,8 +127089,8 @@
     "entreprise": "LEANECO",
     "siret": "90244913100017",
     "adresse": "6 RUE ETIENNE DOLET 75020",
-    "lat": null,
-    "lon": null,
+    "lat": 48.867541,
+    "lon": 2.383578,
     "dept": "75"
   },
   {
@@ -127160,17 +127193,6 @@
     "dept": "75"
   },
   {
-    "nom": "HOURI",
-    "prenom": "Savit",
-    "rpps": "10009053959",
-    "entreprise": "AUDIOMED",
-    "siret": "98138987700011",
-    "adresse": "65 BD ORNANO 75018",
-    "lat": 48.896548,
-    "lon": 2.345291,
-    "dept": "75"
-  },
-  {
     "nom": "ZEITOUN",
     "prenom": "Ariel",
     "rpps": "10009054155",
@@ -127232,8 +127254,8 @@
     "entreprise": "FLC AUDITION",
     "siret": "92133436300014",
     "adresse": "2 AV THERESE 94420",
-    "lat": null,
-    "lon": null,
+    "lat": 48.80927,
+    "lon": 2.574603,
     "dept": "94"
   },
   {
@@ -127562,8 +127584,8 @@
     "entreprise": "BARDIN",
     "siret": "44150040200017",
     "adresse": "4 R DE CERNAY 51100",
-    "lat": null,
-    "lon": null,
+    "lat": 49.257936,
+    "lon": 4.041322,
     "dept": "51"
   },
   {
@@ -127661,8 +127683,8 @@
     "entreprise": "OPTIQUE EVRARD",
     "siret": "40362499200026",
     "adresse": "18 PL DU GENERAL DE GAULLE 80500",
-    "lat": 49.647355,
-    "lon": 2.567443,
+    "lat": null,
+    "lon": null,
     "dept": "80"
   },
   {
@@ -127705,8 +127727,8 @@
     "entreprise": "ORLEANS AUDIOPROTHESE",
     "siret": "32375167700093",
     "adresse": "44 R DES POULIES 45240",
-    "lat": 47.722261,
-    "lon": 1.940234,
+    "lat": null,
+    "lon": null,
     "dept": "45"
   },
   {
@@ -127749,8 +127771,8 @@
     "entreprise": "AUDILAB TOURAINE",
     "siret": "43925181000230",
     "adresse": "14 R GRANDE 36700",
-    "lat": 46.986592,
-    "lon": 1.17329,
+    "lat": null,
+    "lon": null,
     "dept": "36"
   },
   {
@@ -128123,8 +128145,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577009111",
     "adresse": "Route de Lyon 71100",
-    "lat": null,
-    "lon": null,
+    "lat": 46.766703,
+    "lon": 4.843428,
     "dept": "71"
   },
   {
@@ -128189,8 +128211,8 @@
     "entreprise": "AUDIO D",
     "siret": "42981762000025",
     "adresse": "RTE D'AHUY 21121",
-    "lat": 47.341638,
-    "lon": 5.038199,
+    "lat": 47.343405,
+    "lon": 5.037291,
     "dept": "21"
   },
   {
@@ -128258,6 +128280,17 @@
     "lat": 47.489068,
     "lon": 3.90805,
     "dept": "89"
+  },
+  {
+    "nom": "BARBIER",
+    "prenom": "Chloé",
+    "rpps": "10009233296",
+    "entreprise": "LB2C",
+    "siret": "10001999100023",
+    "adresse": "6 Rue du Général de Gaulle 27400",
+    "lat": 49.211015,
+    "lon": 1.169056,
+    "dept": "27"
   },
   {
     "nom": "ERNOULT",
@@ -128497,8 +128530,8 @@
     "entreprise": "ANANKE",
     "siret": "84408312100021",
     "adresse": "16 R NATIONALE 59140",
-    "lat": 51.033666,
-    "lon": 2.377368,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -128563,8 +128596,8 @@
     "entreprise": "VERIN AUDITION",
     "siret": "53755619300069",
     "adresse": "20 PL DU GENERAL DE GAULLE 59360",
-    "lat": null,
-    "lon": null,
+    "lat": 50.105113,
+    "lon": 3.543146,
     "dept": "59"
   },
   {
@@ -128607,8 +128640,8 @@
     "entreprise": "L ATELIER DE L AUDITION",
     "siret": "45164973500011",
     "adresse": "37 RUE DU GENERAL DE GAULLE 59400",
-    "lat": 50.175246,
-    "lon": 3.238581,
+    "lat": null,
+    "lon": null,
     "dept": "59"
   },
   {
@@ -128684,8 +128717,8 @@
     "entreprise": "RENARD AUDIOLOGIE",
     "siret": "37890894100172",
     "adresse": "5 R CARNOT 59113",
-    "lat": null,
-    "lon": null,
+    "lat": 50.550195,
+    "lon": 3.029546,
     "dept": "59"
   },
   {
@@ -128750,8 +128783,8 @@
     "entreprise": "AUDIOPROTHESE VERIN",
     "siret": "51418926500051",
     "adresse": "87 R DU BOURG 80600",
-    "lat": 50.156442,
-    "lon": 2.342559,
+    "lat": null,
+    "lon": null,
     "dept": "80"
   },
   {
@@ -128827,8 +128860,8 @@
     "entreprise": "IRISOPTIC",
     "siret": "78380323200090",
     "adresse": "CENTRE COMMERCIAL LENS 2 62880",
-    "lat": 50.459469,
-    "lon": 2.828761,
+    "lat": null,
+    "lon": null,
     "dept": "62"
   },
   {
@@ -129113,8 +129146,8 @@
     "entreprise": "UNION MUTUALITE FRANCAISE ALSACE",
     "siret": "43411112600430",
     "adresse": "8 R DE LONDRES 67000",
-    "lat": 48.578526,
-    "lon": 7.770925,
+    "lat": null,
+    "lon": null,
     "dept": "67"
   },
   {
@@ -129828,8 +129861,8 @@
     "entreprise": "SARL ILG AUDIO",
     "siret": "98805511700028",
     "adresse": "12 Rue paul baudry 85000",
-    "lat": null,
-    "lon": null,
+    "lat": 46.669815,
+    "lon": -1.425074,
     "dept": "85"
   },
   {
@@ -130950,8 +130983,8 @@
     "entreprise": "VASSAINTMEDARD",
     "siret": "92886222600018",
     "adresse": "19 AV DESCARTES 33160",
-    "lat": null,
-    "lon": null,
+    "lat": 44.887283,
+    "lon": -0.69739,
     "dept": "33"
   },
   {
@@ -130975,17 +131008,6 @@
     "lat": 46.31937,
     "lon": -0.449977,
     "dept": "79"
-  },
-  {
-    "nom": "MAGDELEINAT",
-    "prenom": "Theodore",
-    "rpps": "10009689331",
-    "entreprise": "2AD",
-    "siret": "93236837600020",
-    "adresse": "R MAURICE MENTON 40990",
-    "lat": 43.731432,
-    "lon": -1.044917,
-    "dept": "40"
   },
   {
     "nom": "SANDERS",
@@ -131085,6 +131107,17 @@
     "lat": 44.896322,
     "lon": 1.213872,
     "dept": "24"
+  },
+  {
+    "nom": "GAREL",
+    "prenom": "Florian",
+    "rpps": "10009702282",
+    "entreprise": "LOA COUTRAS",
+    "siret": "90988759800011",
+    "adresse": "2 CHE GASTON 33400",
+    "lat": 44.81637,
+    "lon": -0.598713,
+    "dept": "33"
   },
   {
     "nom": "RAYNEAU",
@@ -131205,6 +131238,17 @@
     "adresse": "30 CRS DU GENERAL DE GAULLE 33340",
     "lat": 45.308993,
     "lon": -0.940207,
+    "dept": "33"
+  },
+  {
+    "nom": "BONAQUE",
+    "prenom": "Julien",
+    "rpps": "10009711416",
+    "entreprise": "CLERMONT DISTRIBUTION",
+    "siret": "51375004200196",
+    "adresse": "50 AV DE LA COTE D'ARGENT 33380",
+    "lat": 44.634363,
+    "lon": -0.973854,
     "dept": "33"
   },
   {
@@ -131368,8 +131412,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311003973",
     "adresse": "6 R SADI CARNOT 82800",
-    "lat": 44.072768,
-    "lon": 1.522993,
+    "lat": null,
+    "lon": null,
     "dept": "82"
   },
   {
@@ -131918,8 +131962,8 @@
     "entreprise": "OPTIQUE PONTCHARRA",
     "siret": "45081522000014",
     "adresse": "10 PL BAYARD 38530",
-    "lat": 45.433219,
-    "lon": 6.024243,
+    "lat": null,
+    "lon": null,
     "dept": "38"
   },
   {
@@ -131995,8 +132039,8 @@
     "entreprise": "UNION DES MUTUELLES DE FRANCE MONT BLANC",
     "siret": "77565447800608",
     "adresse": "31 R DU MONT JOLY 74700",
-    "lat": null,
-    "lon": null,
+    "lat": 45.935574,
+    "lon": 6.630605,
     "dept": "74"
   },
   {
@@ -132457,8 +132501,8 @@
     "entreprise": "LABORATOIRE DE CORRECTION AUDITIVE D'ISSOIRE",
     "siret": "85327288800019",
     "adresse": "PL DE LA REPUBLIQUE 63500",
-    "lat": null,
-    "lon": null,
+    "lat": 45.543518,
+    "lon": 3.248104,
     "dept": "63"
   },
   {
@@ -132581,6 +132625,17 @@
     "lat": 45.729588,
     "lon": 4.829521,
     "dept": "69"
+  },
+  {
+    "nom": "ZEMMOUR",
+    "prenom": "Noam",
+    "rpps": "10009916098",
+    "entreprise": "NAN",
+    "siret": "nan",
+    "adresse": "",
+    "lat": null,
+    "lon": null,
+    "dept": ""
   },
   {
     "nom": "SIV",
@@ -133029,8 +133084,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311006554",
     "adresse": "133 AV MARECHAL FOCH 83170",
-    "lat": null,
-    "lon": null,
+    "lat": 43.4078,
+    "lon": 6.0659,
     "dept": "83"
   },
   {
@@ -133172,8 +133227,8 @@
     "entreprise": "AUDITION DE L ARC",
     "siret": "50194628900029",
     "adresse": "552 AV JEAN MOULIN 13880",
-    "lat": 43.528081,
-    "lon": 5.257528,
+    "lat": null,
+    "lon": null,
     "dept": "13"
   },
   {
@@ -133205,8 +133260,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577005127",
     "adresse": "5 AV DU GENERAL DE GAULLE 13380",
-    "lat": 43.345403,
-    "lon": 5.465031,
+    "lat": 43.345413,
+    "lon": 5.465044,
     "dept": "13"
   },
   {
@@ -133271,8 +133326,8 @@
     "entreprise": "BDB",
     "siret": "81464821800018",
     "adresse": "42 RUE DE LA REPUBLIQUE 83270",
-    "lat": 43.181785,
-    "lon": 5.711114,
+    "lat": null,
+    "lon": null,
     "dept": "83"
   },
   {
@@ -133645,8 +133700,8 @@
     "entreprise": "AUDITION DU ROCHER",
     "siret": "52127754100145",
     "adresse": "51 CHEM DE LA PEIROUARD 83510",
-    "lat": null,
-    "lon": null,
+    "lat": 43.489207,
+    "lon": 6.358708,
     "dept": "83"
   },
   {
@@ -133914,17 +133969,6 @@
     "dept": "01"
   },
   {
-    "nom": "ZERBIB",
-    "prenom": "Gaelle",
-    "rpps": "10102054508",
-    "entreprise": "NAN",
-    "siret": "nan",
-    "adresse": "",
-    "lat": null,
-    "lon": null,
-    "dept": ""
-  },
-  {
     "nom": "DELACOUR",
     "prenom": "Sixtine",
     "rpps": "10105546435",
@@ -134107,8 +134151,8 @@
     "entreprise": "SAINT-FARG'AUDIO",
     "siret": "93118483200018",
     "adresse": "4 Rue des Lions 89170",
-    "lat": 47.640086,
-    "lon": 3.071744,
+    "lat": null,
+    "lon": null,
     "dept": "89"
   },
   {
@@ -134217,8 +134261,8 @@
     "entreprise": "SONOVA AUDIOLOGICAL CARE FRANCE SAS",
     "siret": "42322891502336",
     "adresse": "95 R PASTEUR 32500",
-    "lat": 43.850589,
-    "lon": 0.664126,
+    "lat": null,
+    "lon": null,
     "dept": "32"
   },
   {
@@ -134305,8 +134349,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577008477",
     "adresse": "545 AV D'OFFENBOURG 39000",
-    "lat": 46.679025,
-    "lon": 5.571471,
+    "lat": null,
+    "lon": null,
     "dept": "39"
   },
   {
@@ -134877,8 +134921,8 @@
     "entreprise": "AMPLIFON FRANCE",
     "siret": "31808311006257",
     "adresse": "AV DE L'AMIRAL LEMONNIER 78160",
-    "lat": null,
-    "lon": null,
+    "lat": 48.878583,
+    "lon": 2.100404,
     "dept": "78"
   },
   {
@@ -134924,17 +134968,6 @@
     "lat": 45.732961,
     "lon": 4.910171,
     "dept": "69"
-  },
-  {
-    "nom": "SADAOUI",
-    "prenom": "Amina",
-    "rpps": "10110503496",
-    "entreprise": "AUDIO BP",
-    "siret": "93810756200010",
-    "adresse": "104 BD PONIATOWSKI 75012",
-    "lat": 48.834946,
-    "lon": 2.40608,
-    "dept": "75"
   },
   {
     "nom": "BENLOLO",
@@ -135207,8 +135240,8 @@
     "entreprise": "SOGECA",
     "siret": "30889577008154",
     "adresse": "28 R DU MARECHAL JOFFRE 57170",
-    "lat": 48.82044,
-    "lon": 6.50756,
+    "lat": null,
+    "lon": null,
     "dept": "57"
   },
   {
@@ -136164,8 +136197,8 @@
     "entreprise": "RB OPTIC",
     "siret": "49344461600053",
     "adresse": "46 R ALFRED DE MUSSET 42300",
-    "lat": null,
-    "lon": null,
+    "lat": 46.061954,
+    "lon": 4.05863,
     "dept": "42"
   },
   {
@@ -136486,5 +136519,16 @@
     "lat": -21.291891,
     "lon": 55.40505,
     "dept": "97"
+  },
+  {
+    "nom": "TAILHANDIER",
+    "prenom": "Thibaut",
+    "rpps": "10111980180",
+    "entreprise": "PLASS-VISION",
+    "siret": "53202322300029",
+    "adresse": "35 R DES ALLOBROGES 73100",
+    "lat": 45.717823,
+    "lon": 5.921043,
+    "dept": "73"
   }
 ]
